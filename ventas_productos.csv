@@ -1,0 +1,1001 @@
+ID_Venta,Fecha,Producto,Categoría,Cantidad,Precio_Unitario,Total_Venta,Método_Pago,Cliente_Nuevo,Región
+1,2023-12-22,Laptop,Accesorios,2,293.34,586.68,Tarjeta,No,Oeste
+2,2023-08-13,Monitor,Hogar,9,284.71,2562.39,Efectivo,No,Este
+3,2023-01-21,Smartphone,Oficina,1,802.83,802.83,Tarjeta,Sí,Oeste
+4,2024-01-01,Cámara,Hogar,9,722.99,6506.91,Efectivo,Sí,Sur
+5,2023-09-16,Teclado,Oficina,5,954.53,4772.65,Efectivo,No,Sur
+6,2023-08-04,Impresora,Hogar,9,564.28,5078.52,Efectivo,Sí,Norte
+7,2023-05-02,Teclado,Hogar,1,372.83,372.83,Tarjeta,No,Oeste
+8,2023-04-05,Teclado,Electrónica,1,444.13,444.13,Efectivo,Sí,Oeste
+9,2023-10-24,Cámara,Accesorios,3,487.38,1462.14,Transferencia,Sí,Norte
+10,2023-04-18,Auriculares,Accesorios,7,406.42,2844.94,Tarjeta,No,Sur
+11,2023-11-12,Teclado,Electrónica,3,46.83,140.49,Tarjeta,No,Sur
+12,2023-05-26,Reloj Inteligente,Oficina,2,450.17,900.34,Transferencia,No,Oeste
+13,2023-07-23,Reloj Inteligente,Hogar,4,974.12,3896.48,Tarjeta,Sí,Este
+14,2023-05-18,Smartphone,Oficina,9,209.09,1881.81,Transferencia,Sí,Norte
+15,2023-03-12,Reloj Inteligente,Hogar,4,753.39,3013.56,Transferencia,Sí,Este
+16,2023-03-17,Smartphone,Hogar,10,567.88,5678.8,Transferencia,No,Norte
+17,2023-04-09,Smartphone,Hogar,8,390.36,3122.88,Tarjeta,Sí,Sur
+18,2023-09-18,Monitor,Oficina,1,176.17,176.17,Tarjeta,No,Este
+19,2023-07-30,Monitor,Electrónica,4,671.8,2687.2,Transferencia,No,Norte
+20,2023-10-09,Smartphone,Hogar,10,265.39,2653.9,Efectivo,No,Este
+21,2023-06-27,Auriculares,Hogar,3,527.26,1581.78,Tarjeta,No,Norte
+22,2023-12-30,Monitor,Hogar,6,461.11,2766.66,Efectivo,Sí,Sur
+23,2023-05-01,Impresora,Accesorios,1,915.35,915.35,Efectivo,Sí,Norte
+24,2023-02-25,Smartphone,Electrónica,10,768.06,7680.6,Tarjeta,No,Sur
+25,2023-07-02,Cámara,Accesorios,8,756.93,6055.44,Tarjeta,No,Norte
+26,2023-11-08,Impresora,Electrónica,7,514.29,3600.03,Efectivo,Sí,Norte
+27,2023-01-25,Teclado,Accesorios,5,395.7,1978.5,Transferencia,Sí,Oeste
+28,2023-01-03,Smartphone,Hogar,6,564.03,3384.18,Tarjeta,Sí,Norte
+29,2023-09-18,Reloj Inteligente,Accesorios,8,914.17,7313.36,Efectivo,Sí,Norte
+30,2023-10-29,Teclado,Hogar,5,187.72,938.6,Transferencia,Sí,Oeste
+31,2023-01-29,Smartphone,Accesorios,10,305.25,3052.5,Tarjeta,Sí,Sur
+32,2023-12-13,Smartphone,Accesorios,5,222.55,1112.75,Efectivo,Sí,Norte
+33,2023-06-04,Teclado,Hogar,8,774.18,6193.44,Tarjeta,No,Sur
+34,2023-04-25,Smartphone,Hogar,8,618.32,4946.56,Efectivo,Sí,Oeste
+35,2023-05-02,Monitor,Hogar,5,359.48,1797.4,Tarjeta,No,Norte
+36,2023-05-14,Impresora,Hogar,5,882.96,4414.8,Efectivo,Sí,Este
+37,2023-07-23,Laptop,Accesorios,2,900.89,1801.78,Efectivo,Sí,Oeste
+38,2023-12-10,Teclado,Oficina,6,36.56,219.36,Transferencia,Sí,Norte
+39,2023-08-20,Smartphone,Oficina,5,256.85,1284.25,Tarjeta,Sí,Norte
+40,2023-01-31,Teclado,Accesorios,9,679.99,6119.91,Transferencia,Sí,Oeste
+41,2023-10-25,Cámara,Accesorios,1,133.5,133.5,Transferencia,Sí,Oeste
+42,2023-01-23,Laptop,Oficina,9,595.02,5355.18,Efectivo,Sí,Oeste
+43,2023-08-16,Impresora,Oficina,6,189.01,1134.06,Transferencia,Sí,Sur
+44,2023-02-14,Monitor,Electrónica,6,135.61,813.66,Tarjeta,No,Oeste
+45,2023-12-12,Impresora,Oficina,7,781.54,5470.78,Efectivo,No,Sur
+46,2023-05-29,Auriculares,Electrónica,5,596.6,2983.0,Efectivo,No,Norte
+47,2023-09-29,Monitor,Oficina,8,824.89,6599.12,Tarjeta,Sí,Sur
+48,2023-05-20,Smartphone,Hogar,8,704.39,5635.12,Efectivo,No,Este
+49,2023-08-22,Impresora,Electrónica,10,423.13,4231.3,Efectivo,No,Sur
+50,2023-04-09,Laptop,Electrónica,4,247.73,990.92,Efectivo,Sí,Este
+51,2023-12-07,Monitor,Electrónica,8,920.12,7360.96,Transferencia,No,Este
+52,2023-07-11,Laptop,Oficina,9,501.4,4512.6,Transferencia,No,Oeste
+53,2023-06-03,Monitor,Electrónica,10,724.94,7249.4,Transferencia,No,Norte
+54,2023-01-03,Reloj Inteligente,Hogar,6,391.94,2351.64,Transferencia,No,Norte
+55,2023-10-18,Teclado,Electrónica,1,98.98,98.98,Efectivo,Sí,Oeste
+56,2023-06-26,Impresora,Electrónica,9,11.95,107.55,Transferencia,Sí,Norte
+57,2023-04-13,Smartphone,Electrónica,6,294.36,1766.16,Tarjeta,Sí,Este
+58,2023-06-17,Monitor,Electrónica,7,29.74,208.18,Tarjeta,Sí,Sur
+59,2023-08-16,Impresora,Hogar,6,743.96,4463.76,Tarjeta,Sí,Oeste
+60,2023-10-23,Impresora,Oficina,4,756.54,3026.16,Tarjeta,No,Sur
+61,2023-04-28,Auriculares,Oficina,4,779.93,3119.72,Tarjeta,Sí,Sur
+62,2023-03-28,Impresora,Hogar,1,82.38,82.38,Tarjeta,No,Oeste
+63,2023-05-28,Auriculares,Hogar,1,755.92,755.92,Tarjeta,Sí,Oeste
+64,2023-01-29,Laptop,Hogar,9,164.0,1476.0,Efectivo,No,Norte
+65,2023-02-12,Reloj Inteligente,Electrónica,4,607.24,2428.96,Tarjeta,Sí,Sur
+66,2023-03-11,Teclado,Hogar,5,444.64,2223.2,Tarjeta,No,Este
+67,2023-12-10,Teclado,Hogar,2,986.83,1973.66,Transferencia,Sí,Oeste
+68,2023-03-06,Teclado,Electrónica,3,854.16,2562.48,Transferencia,No,Este
+69,2023-11-07,Laptop,Hogar,7,123.78,866.46,Transferencia,No,Norte
+70,2023-05-06,Auriculares,Oficina,6,825.75,4954.5,Efectivo,Sí,Norte
+71,2023-12-12,Impresora,Accesorios,8,727.73,5821.84,Tarjeta,Sí,Sur
+72,2023-10-29,Cámara,Oficina,6,262.88,1577.28,Efectivo,No,Este
+73,2023-06-30,Teclado,Electrónica,9,420.03,3780.27,Transferencia,Sí,Oeste
+74,2023-06-23,Monitor,Accesorios,9,84.96,764.64,Efectivo,No,Norte
+75,2023-07-26,Smartphone,Electrónica,4,377.45,1509.8,Efectivo,Sí,Este
+76,2023-07-06,Reloj Inteligente,Oficina,10,921.16,9211.6,Tarjeta,Sí,Este
+77,2023-10-13,Smartphone,Accesorios,9,373.26,3359.34,Efectivo,No,Norte
+78,2023-05-13,Auriculares,Oficina,2,540.08,1080.16,Transferencia,No,Oeste
+79,2023-08-15,Cámara,Accesorios,2,920.66,1841.32,Efectivo,Sí,Norte
+80,2023-04-25,Impresora,Electrónica,3,234.19,702.57,Efectivo,Sí,Norte
+81,2023-06-16,Laptop,Electrónica,9,753.45,6781.05,Transferencia,Sí,Oeste
+82,2023-06-15,Impresora,Accesorios,3,705.1,2115.3,Tarjeta,No,Sur
+83,2023-06-08,Auriculares,Accesorios,2,198.71,397.42,Tarjeta,Sí,Norte
+84,2023-04-14,Impresora,Electrónica,1,48.22,48.22,Tarjeta,Sí,Sur
+85,2023-11-05,Laptop,Electrónica,1,96.27,96.27,Efectivo,No,Este
+86,2023-06-21,Auriculares,Oficina,8,282.23,2257.84,Tarjeta,No,Este
+87,2023-02-28,Smartphone,Electrónica,7,450.82,3155.74,Transferencia,No,Norte
+88,2023-08-21,Teclado,Electrónica,10,852.12,8521.2,Tarjeta,Sí,Norte
+89,2023-09-27,Laptop,Oficina,9,202.48,1822.32,Transferencia,No,Oeste
+90,2023-11-03,Laptop,Electrónica,7,746.8,5227.6,Transferencia,Sí,Este
+91,2023-12-19,Laptop,Hogar,6,565.07,3390.42,Tarjeta,Sí,Norte
+92,2023-09-06,Reloj Inteligente,Hogar,1,371.26,371.26,Efectivo,No,Norte
+93,2023-10-13,Smartphone,Oficina,2,91.5,183.0,Transferencia,No,Norte
+94,2023-05-23,Impresora,Hogar,2,544.38,1088.76,Tarjeta,No,Oeste
+95,2023-05-13,Laptop,Electrónica,10,607.93,6079.3,Tarjeta,Sí,Oeste
+96,2023-08-04,Teclado,Accesorios,10,129.44,1294.4,Transferencia,Sí,Oeste
+97,2023-11-13,Teclado,Hogar,8,370.77,2966.16,Tarjeta,No,Este
+98,2023-12-28,Cámara,Hogar,3,873.15,2619.45,Transferencia,No,Sur
+99,2023-08-16,Teclado,Hogar,1,572.59,572.59,Efectivo,Sí,Oeste
+100,2023-10-25,Teclado,Hogar,2,425.52,851.04,Transferencia,Sí,Sur
+101,2023-10-24,Auriculares,Accesorios,5,891.2,4456.0,Efectivo,Sí,Oeste
+102,2023-02-19,Monitor,Hogar,7,976.86,6838.02,Efectivo,No,Oeste
+103,2023-09-13,Cámara,Oficina,10,964.02,9640.2,Tarjeta,No,Norte
+104,2023-09-24,Monitor,Oficina,2,549.11,1098.22,Tarjeta,No,Sur
+105,2023-11-20,Cámara,Accesorios,5,815.49,4077.45,Transferencia,No,Oeste
+106,2023-01-09,Monitor,Oficina,4,377.22,1508.88,Transferencia,No,Sur
+107,2023-03-22,Smartphone,Hogar,5,528.9,2644.5,Tarjeta,Sí,Este
+108,2023-12-22,Smartphone,Accesorios,8,174.82,1398.56,Transferencia,Sí,Este
+109,2023-06-19,Impresora,Hogar,6,447.35,2684.1,Tarjeta,Sí,Norte
+110,2023-07-08,Reloj Inteligente,Accesorios,3,74.75,224.25,Tarjeta,No,Oeste
+111,2023-05-10,Impresora,Accesorios,6,270.83,1624.98,Tarjeta,No,Sur
+112,2023-04-16,Teclado,Hogar,4,194.19,776.76,Efectivo,Sí,Oeste
+113,2023-09-06,Reloj Inteligente,Electrónica,10,715.26,7152.6,Tarjeta,No,Este
+114,2023-12-18,Cámara,Hogar,2,103.71,207.42,Tarjeta,No,Sur
+115,2023-03-01,Smartphone,Oficina,2,670.51,1341.02,Efectivo,Sí,Oeste
+116,2023-02-24,Monitor,Hogar,8,678.22,5425.76,Transferencia,No,Oeste
+117,2023-11-23,Reloj Inteligente,Hogar,4,653.49,2613.96,Transferencia,Sí,Oeste
+118,2023-06-18,Laptop,Hogar,4,99.82,399.28,Efectivo,No,Norte
+119,2023-01-02,Teclado,Electrónica,5,533.28,2666.4,Efectivo,Sí,Norte
+120,2023-06-14,Cámara,Electrónica,6,248.48,1490.88,Efectivo,No,Oeste
+121,2023-10-31,Auriculares,Oficina,8,613.45,4907.6,Transferencia,No,Oeste
+122,2023-08-11,Auriculares,Electrónica,6,493.13,2958.78,Transferencia,Sí,Este
+123,2023-09-05,Cámara,Accesorios,10,546.7,5467.0,Transferencia,No,Este
+124,2023-08-13,Monitor,Oficina,7,904.94,6334.58,Transferencia,No,Oeste
+125,2023-03-02,Impresora,Oficina,6,973.41,5840.46,Transferencia,No,Norte
+126,2023-07-10,Auriculares,Hogar,5,227.59,1137.95,Transferencia,No,Norte
+127,2023-03-06,Smartphone,Hogar,7,668.04,4676.28,Transferencia,No,Oeste
+128,2023-12-30,Laptop,Oficina,6,504.37,3026.22,Transferencia,No,Sur
+129,2023-02-13,Cámara,Accesorios,9,454.75,4092.75,Tarjeta,Sí,Norte
+130,2023-11-16,Laptop,Accesorios,8,921.22,7369.76,Tarjeta,Sí,Sur
+131,2023-04-03,Impresora,Oficina,5,795.45,3977.25,Efectivo,Sí,Oeste
+132,2023-10-30,Cámara,Electrónica,9,119.91,1079.19,Efectivo,No,Norte
+133,2023-07-05,Monitor,Oficina,9,314.37,2829.33,Transferencia,No,Este
+134,2023-07-25,Monitor,Accesorios,3,63.77,191.31,Efectivo,Sí,Sur
+135,2023-02-06,Smartphone,Hogar,8,493.15,3945.2,Tarjeta,No,Oeste
+136,2023-05-19,Impresora,Accesorios,6,978.98,5873.88,Transferencia,Sí,Este
+137,2023-10-31,Smartphone,Oficina,6,785.53,4713.18,Tarjeta,No,Norte
+138,2023-07-04,Monitor,Electrónica,1,290.74,290.74,Efectivo,No,Sur
+139,2023-02-02,Auriculares,Accesorios,10,503.44,5034.4,Transferencia,Sí,Este
+140,2023-09-29,Reloj Inteligente,Oficina,6,264.13,1584.78,Tarjeta,Sí,Este
+141,2023-06-13,Auriculares,Electrónica,1,883.71,883.71,Efectivo,No,Sur
+142,2023-09-02,Cámara,Accesorios,1,935.49,935.49,Tarjeta,Sí,Norte
+143,2023-06-14,Monitor,Oficina,10,830.59,8305.9,Transferencia,No,Norte
+144,2023-09-08,Impresora,Electrónica,8,657.31,5258.48,Tarjeta,No,Oeste
+145,2023-11-04,Auriculares,Electrónica,5,107.99,539.95,Tarjeta,No,Este
+146,2023-12-07,Laptop,Electrónica,9,858.92,7730.28,Tarjeta,Sí,Norte
+147,2023-04-28,Monitor,Hogar,1,797.64,797.64,Transferencia,Sí,Oeste
+148,2023-08-25,Impresora,Accesorios,6,948.4,5690.4,Efectivo,Sí,Norte
+149,2023-04-19,Cámara,Hogar,8,259.69,2077.52,Efectivo,Sí,Sur
+150,2023-02-12,Smartphone,Accesorios,8,914.24,7313.92,Transferencia,Sí,Este
+151,2023-07-01,Cámara,Electrónica,8,183.12,1464.96,Efectivo,No,Sur
+152,2023-03-12,Cámara,Oficina,9,794.99,7154.91,Tarjeta,No,Norte
+153,2023-09-28,Auriculares,Electrónica,8,358.36,2866.88,Transferencia,No,Este
+154,2023-08-08,Reloj Inteligente,Accesorios,5,107.51,537.55,Tarjeta,Sí,Este
+155,2023-05-13,Impresora,Electrónica,3,707.7,2123.1,Transferencia,Sí,Oeste
+156,2023-05-08,Monitor,Hogar,8,547.04,4376.32,Tarjeta,No,Este
+157,2023-10-05,Auriculares,Accesorios,8,37.42,299.36,Transferencia,Sí,Este
+158,2023-10-31,Impresora,Electrónica,6,383.95,2303.7,Tarjeta,No,Oeste
+159,2023-05-11,Teclado,Hogar,8,847.79,6782.32,Tarjeta,Sí,Este
+160,2023-12-18,Monitor,Electrónica,9,97.09,873.81,Efectivo,Sí,Oeste
+161,2023-08-19,Auriculares,Hogar,2,257.79,515.58,Tarjeta,Sí,Oeste
+162,2023-01-21,Laptop,Oficina,3,108.22,324.66,Transferencia,No,Este
+163,2023-09-02,Cámara,Oficina,10,80.08,800.8,Transferencia,No,Este
+164,2023-08-14,Smartphone,Hogar,5,240.89,1204.45,Transferencia,Sí,Sur
+165,2023-11-24,Reloj Inteligente,Oficina,10,863.14,8631.4,Tarjeta,Sí,Este
+166,2023-12-12,Teclado,Accesorios,8,546.13,4369.04,Efectivo,Sí,Sur
+167,2023-01-06,Cámara,Oficina,2,575.93,1151.86,Efectivo,No,Oeste
+168,2023-08-11,Teclado,Hogar,2,164.53,329.06,Tarjeta,Sí,Este
+169,2023-03-13,Auriculares,Electrónica,2,164.25,328.5,Transferencia,Sí,Este
+170,2023-04-26,Teclado,Oficina,9,273.76,2463.84,Transferencia,Sí,Oeste
+171,2023-08-22,Teclado,Hogar,8,989.51,7916.08,Tarjeta,Sí,Norte
+172,2023-06-18,Smartphone,Oficina,7,937.05,6559.35,Transferencia,No,Sur
+173,2023-10-12,Impresora,Electrónica,4,854.21,3416.84,Transferencia,No,Este
+174,2023-01-09,Impresora,Hogar,3,630.4,1891.2,Transferencia,No,Sur
+175,2023-06-01,Auriculares,Hogar,6,711.96,4271.76,Tarjeta,Sí,Este
+176,2023-03-18,Monitor,Electrónica,8,943.71,7549.68,Transferencia,Sí,Sur
+177,2023-04-03,Impresora,Hogar,3,208.14,624.42,Efectivo,No,Norte
+178,2023-07-21,Monitor,Electrónica,10,258.5,2585.0,Efectivo,No,Sur
+179,2023-02-01,Impresora,Accesorios,3,51.89,155.67,Efectivo,Sí,Este
+180,2023-09-12,Reloj Inteligente,Hogar,9,544.02,4896.18,Tarjeta,Sí,Norte
+181,2023-06-13,Reloj Inteligente,Accesorios,2,630.07,1260.14,Tarjeta,Sí,Oeste
+182,2023-07-07,Impresora,Accesorios,10,992.83,9928.3,Tarjeta,No,Norte
+183,2023-01-14,Teclado,Oficina,9,130.09,1170.81,Transferencia,Sí,Norte
+184,2023-05-01,Auriculares,Accesorios,2,907.52,1815.04,Transferencia,Sí,Este
+185,2023-12-05,Teclado,Accesorios,10,754.14,7541.4,Transferencia,Sí,Norte
+186,2023-03-04,Auriculares,Oficina,1,15.25,15.25,Tarjeta,No,Oeste
+187,2023-07-10,Cámara,Electrónica,3,328.36,985.08,Tarjeta,No,Sur
+188,2023-12-05,Smartphone,Accesorios,9,446.48,4018.32,Tarjeta,No,Oeste
+189,2023-08-18,Smartphone,Accesorios,6,418.74,2512.44,Transferencia,No,Este
+190,2023-07-30,Monitor,Accesorios,7,386.66,2706.62,Tarjeta,Sí,Norte
+191,2023-02-16,Auriculares,Oficina,3,227.47,682.41,Transferencia,Sí,Oeste
+192,2023-09-03,Smartphone,Oficina,8,708.16,5665.28,Tarjeta,Sí,Sur
+193,2023-07-11,Smartphone,Hogar,3,796.4,2389.2,Efectivo,Sí,Sur
+194,2023-08-20,Smartphone,Oficina,3,984.63,2953.89,Tarjeta,Sí,Este
+195,2023-08-05,Impresora,Oficina,3,212.33,636.99,Transferencia,No,Este
+196,2023-01-21,Reloj Inteligente,Electrónica,9,964.39,8679.51,Efectivo,Sí,Sur
+197,2023-03-06,Auriculares,Oficina,2,84.81,169.62,Transferencia,No,Este
+198,2023-09-26,Laptop,Electrónica,4,629.8,2519.2,Transferencia,No,Oeste
+199,2023-05-13,Monitor,Accesorios,5,905.19,4525.95,Efectivo,Sí,Sur
+200,2023-01-21,Laptop,Hogar,1,382.67,382.67,Tarjeta,No,Oeste
+201,2023-08-17,Teclado,Accesorios,10,521.39,5213.9,Transferencia,Sí,Este
+202,2023-11-16,Monitor,Oficina,2,929.6,1859.2,Transferencia,No,Norte
+203,2023-03-06,Reloj Inteligente,Hogar,4,711.77,2847.08,Transferencia,No,Norte
+204,2023-03-16,Smartphone,Accesorios,6,269.39,1616.34,Tarjeta,No,Oeste
+205,2023-10-21,Auriculares,Hogar,3,242.9,728.7,Transferencia,Sí,Sur
+206,2023-06-09,Teclado,Hogar,6,435.67,2614.02,Tarjeta,Sí,Este
+207,2023-12-13,Auriculares,Oficina,6,976.25,5857.5,Tarjeta,No,Este
+208,2023-11-30,Monitor,Accesorios,3,719.31,2157.93,Efectivo,No,Este
+209,2023-08-02,Laptop,Hogar,3,870.84,2612.52,Tarjeta,Sí,Oeste
+210,2023-01-16,Laptop,Accesorios,7,860.11,6020.77,Efectivo,No,Sur
+211,2023-09-22,Auriculares,Oficina,6,265.52,1593.12,Transferencia,No,Sur
+212,2023-01-02,Cámara,Accesorios,3,239.35,718.05,Efectivo,No,Oeste
+213,2023-08-01,Reloj Inteligente,Oficina,3,904.51,2713.53,Tarjeta,No,Oeste
+214,2023-12-27,Cámara,Oficina,6,875.98,5255.88,Tarjeta,Sí,Este
+215,2023-02-02,Impresora,Hogar,4,292.97,1171.88,Efectivo,No,Sur
+216,2023-11-12,Reloj Inteligente,Hogar,2,837.74,1675.48,Transferencia,No,Oeste
+217,2023-08-11,Teclado,Accesorios,2,461.23,922.46,Efectivo,Sí,Norte
+218,2023-08-21,Monitor,Hogar,9,81.52,733.68,Transferencia,No,Sur
+219,2023-03-15,Cámara,Oficina,5,487.47,2437.35,Transferencia,Sí,Este
+220,2023-11-12,Cámara,Electrónica,10,498.84,4988.4,Tarjeta,No,Este
+221,2023-06-08,Impresora,Hogar,9,931.97,8387.73,Transferencia,No,Este
+222,2023-01-28,Cámara,Accesorios,2,683.77,1367.54,Tarjeta,No,Sur
+223,2023-08-01,Reloj Inteligente,Hogar,4,540.4,2161.6,Transferencia,Sí,Norte
+224,2023-07-05,Cámara,Oficina,8,115.0,920.0,Transferencia,No,Sur
+225,2023-04-24,Reloj Inteligente,Oficina,6,587.17,3523.02,Transferencia,Sí,Norte
+226,2023-11-28,Teclado,Accesorios,10,872.54,8725.4,Transferencia,Sí,Norte
+227,2023-07-10,Teclado,Hogar,3,580.61,1741.83,Transferencia,Sí,Sur
+228,2023-01-22,Cámara,Hogar,9,560.47,5044.23,Tarjeta,Sí,Oeste
+229,2023-04-05,Laptop,Oficina,1,357.65,357.65,Efectivo,No,Este
+230,2023-05-20,Monitor,Accesorios,1,382.09,382.09,Efectivo,No,Este
+231,2023-01-24,Impresora,Oficina,6,290.97,1745.82,Tarjeta,Sí,Sur
+232,2023-04-23,Laptop,Oficina,1,991.35,991.35,Transferencia,Sí,Sur
+233,2023-03-13,Laptop,Accesorios,3,510.65,1531.95,Transferencia,Sí,Este
+234,2023-01-23,Monitor,Accesorios,7,533.97,3737.79,Tarjeta,Sí,Norte
+235,2023-04-02,Impresora,Electrónica,4,507.43,2029.72,Efectivo,No,Sur
+236,2023-12-10,Cámara,Electrónica,4,918.83,3675.32,Efectivo,Sí,Oeste
+237,2023-10-27,Impresora,Accesorios,4,386.0,1544.0,Efectivo,No,Oeste
+238,2023-02-04,Teclado,Electrónica,7,268.74,1881.18,Efectivo,Sí,Oeste
+239,2023-10-31,Impresora,Oficina,10,920.52,9205.2,Transferencia,No,Este
+240,2023-08-01,Impresora,Hogar,3,548.37,1645.11,Transferencia,Sí,Este
+241,2023-02-24,Impresora,Accesorios,5,46.78,233.9,Efectivo,Sí,Sur
+242,2023-02-01,Laptop,Oficina,6,258.98,1553.88,Transferencia,Sí,Este
+243,2023-12-03,Monitor,Electrónica,2,216.39,432.78,Transferencia,No,Sur
+244,2023-01-13,Smartphone,Hogar,2,686.58,1373.16,Efectivo,No,Norte
+245,2023-06-02,Monitor,Accesorios,5,196.17,980.85,Tarjeta,No,Sur
+246,2023-03-24,Auriculares,Electrónica,6,755.05,4530.3,Tarjeta,Sí,Oeste
+247,2023-02-05,Reloj Inteligente,Oficina,9,335.0,3015.0,Tarjeta,No,Sur
+248,2023-05-24,Cámara,Hogar,6,446.09,2676.54,Efectivo,Sí,Oeste
+249,2023-09-10,Reloj Inteligente,Electrónica,8,960.34,7682.72,Tarjeta,No,Sur
+250,2023-09-05,Auriculares,Hogar,5,615.19,3075.95,Transferencia,Sí,Norte
+251,2023-08-15,Impresora,Oficina,7,379.81,2658.67,Transferencia,Sí,Norte
+252,2023-09-25,Laptop,Oficina,6,565.97,3395.82,Transferencia,Sí,Oeste
+253,2023-05-14,Cámara,Oficina,9,700.98,6308.82,Tarjeta,No,Oeste
+254,2023-12-04,Teclado,Hogar,7,589.76,4128.32,Transferencia,No,Oeste
+255,2023-09-27,Monitor,Hogar,10,839.07,8390.7,Tarjeta,Sí,Este
+256,2023-11-30,Impresora,Hogar,5,320.81,1604.05,Transferencia,Sí,Este
+257,2023-11-09,Impresora,Oficina,8,755.7,6045.6,Tarjeta,Sí,Este
+258,2023-05-22,Monitor,Accesorios,5,908.2,4541.0,Tarjeta,No,Norte
+259,2023-03-04,Auriculares,Oficina,8,130.33,1042.64,Tarjeta,No,Oeste
+260,2023-10-15,Auriculares,Oficina,3,597.95,1793.85,Efectivo,Sí,Este
+261,2023-03-03,Reloj Inteligente,Accesorios,3,95.18,285.54,Efectivo,No,Sur
+262,2023-09-12,Teclado,Accesorios,7,816.12,5712.84,Efectivo,No,Oeste
+263,2023-03-03,Laptop,Accesorios,1,29.08,29.08,Efectivo,No,Norte
+264,2023-12-31,Cámara,Hogar,8,239.17,1913.36,Transferencia,Sí,Norte
+265,2023-10-26,Teclado,Electrónica,2,653.48,1306.96,Efectivo,No,Oeste
+266,2023-11-08,Monitor,Accesorios,9,591.0,5319.0,Transferencia,No,Este
+267,2023-01-13,Laptop,Oficina,10,916.6,9166.0,Tarjeta,Sí,Norte
+268,2023-09-15,Teclado,Hogar,4,786.3,3145.2,Transferencia,No,Norte
+269,2023-08-01,Cámara,Electrónica,4,132.05,528.2,Efectivo,Sí,Este
+270,2023-03-16,Smartphone,Electrónica,9,909.95,8189.55,Transferencia,No,Sur
+271,2023-11-03,Impresora,Accesorios,6,81.32,487.92,Efectivo,Sí,Norte
+272,2023-04-20,Teclado,Oficina,7,767.58,5373.06,Efectivo,Sí,Oeste
+273,2023-02-13,Impresora,Hogar,4,184.51,738.04,Efectivo,Sí,Oeste
+274,2023-07-12,Impresora,Oficina,9,967.5,8707.5,Efectivo,Sí,Oeste
+275,2023-05-08,Teclado,Hogar,8,470.09,3760.72,Tarjeta,No,Oeste
+276,2023-10-05,Teclado,Hogar,3,919.53,2758.59,Efectivo,No,Este
+277,2023-07-21,Teclado,Accesorios,2,898.28,1796.56,Tarjeta,No,Este
+278,2023-03-11,Monitor,Accesorios,10,293.49,2934.9,Tarjeta,Sí,Sur
+279,2023-08-20,Teclado,Accesorios,4,979.81,3919.24,Efectivo,Sí,Sur
+280,2023-03-17,Impresora,Oficina,5,73.76,368.8,Tarjeta,No,Oeste
+281,2023-02-11,Smartphone,Oficina,5,219.48,1097.4,Tarjeta,No,Oeste
+282,2023-04-21,Reloj Inteligente,Hogar,7,522.4,3656.8,Transferencia,Sí,Oeste
+283,2023-10-13,Cámara,Accesorios,6,993.82,5962.92,Efectivo,No,Este
+284,2023-04-06,Impresora,Oficina,10,735.37,7353.7,Transferencia,No,Sur
+285,2023-11-08,Teclado,Oficina,2,178.08,356.16,Transferencia,Sí,Oeste
+286,2023-04-22,Smartphone,Electrónica,5,158.32,791.6,Transferencia,Sí,Oeste
+287,2023-04-04,Laptop,Oficina,6,750.1,4500.6,Efectivo,No,Este
+288,2023-12-22,Laptop,Accesorios,1,612.89,612.89,Tarjeta,No,Norte
+289,2023-10-08,Reloj Inteligente,Electrónica,2,709.81,1419.62,Efectivo,Sí,Norte
+290,2023-04-06,Cámara,Hogar,4,707.05,2828.2,Tarjeta,No,Este
+291,2023-11-18,Impresora,Hogar,8,74.06,592.48,Transferencia,Sí,Oeste
+292,2023-06-26,Monitor,Accesorios,1,807.36,807.36,Transferencia,No,Oeste
+293,2023-03-14,Laptop,Accesorios,3,521.48,1564.44,Transferencia,Sí,Este
+294,2023-01-10,Laptop,Hogar,10,556.45,5564.5,Transferencia,No,Oeste
+295,2023-07-05,Cámara,Accesorios,8,58.53,468.24,Tarjeta,Sí,Oeste
+296,2023-06-04,Impresora,Oficina,3,26.2,78.6,Efectivo,No,Este
+297,2023-11-12,Impresora,Oficina,10,985.22,9852.2,Transferencia,Sí,Norte
+298,2023-07-07,Monitor,Oficina,10,505.31,5053.1,Transferencia,No,Sur
+299,2023-05-06,Cámara,Hogar,7,303.55,2124.85,Tarjeta,Sí,Este
+300,2023-01-08,Monitor,Accesorios,1,807.0,807.0,Tarjeta,Sí,Norte
+301,2023-08-24,Laptop,Accesorios,3,360.98,1082.94,Transferencia,No,Este
+302,2023-08-12,Laptop,Accesorios,8,901.99,7215.92,Efectivo,No,Sur
+303,2023-06-29,Monitor,Oficina,5,148.48,742.4,Tarjeta,Sí,Sur
+304,2023-01-02,Monitor,Hogar,6,346.65,2079.9,Transferencia,No,Oeste
+305,2023-10-03,Monitor,Electrónica,5,665.22,3326.1,Efectivo,Sí,Sur
+306,2023-01-05,Laptop,Oficina,4,652.69,2610.76,Transferencia,Sí,Norte
+307,2023-02-08,Impresora,Accesorios,8,66.91,535.28,Efectivo,No,Norte
+308,2023-07-06,Teclado,Accesorios,5,664.75,3323.75,Tarjeta,Sí,Oeste
+309,2023-11-20,Teclado,Oficina,6,337.3,2023.8,Tarjeta,Sí,Norte
+310,2023-04-02,Auriculares,Accesorios,3,983.67,2951.01,Tarjeta,No,Norte
+311,2023-08-17,Impresora,Electrónica,6,963.88,5783.28,Tarjeta,Sí,Norte
+312,2023-07-12,Reloj Inteligente,Oficina,5,797.31,3986.55,Tarjeta,No,Norte
+313,2023-04-09,Impresora,Electrónica,5,663.88,3319.4,Efectivo,No,Este
+314,2023-11-03,Monitor,Accesorios,3,732.53,2197.59,Efectivo,No,Norte
+315,2023-07-07,Auriculares,Oficina,7,497.59,3483.13,Efectivo,No,Oeste
+316,2023-03-09,Smartphone,Accesorios,10,967.61,9676.1,Tarjeta,No,Oeste
+317,2023-05-29,Impresora,Electrónica,6,268.45,1610.7,Tarjeta,No,Este
+318,2023-02-18,Auriculares,Hogar,7,828.92,5802.44,Tarjeta,Sí,Este
+319,2023-11-03,Smartphone,Accesorios,6,685.05,4110.3,Transferencia,No,Oeste
+320,2023-01-26,Smartphone,Accesorios,10,123.59,1235.9,Efectivo,No,Este
+321,2023-04-22,Smartphone,Electrónica,2,606.3,1212.6,Tarjeta,Sí,Norte
+322,2023-09-29,Teclado,Accesorios,2,298.76,597.52,Efectivo,Sí,Este
+323,2023-04-11,Impresora,Electrónica,6,817.73,4906.38,Tarjeta,No,Oeste
+324,2023-07-11,Impresora,Electrónica,10,328.22,3282.2,Tarjeta,No,Este
+325,2023-04-22,Auriculares,Hogar,3,591.56,1774.68,Tarjeta,Sí,Norte
+326,2023-11-01,Teclado,Hogar,1,860.92,860.92,Tarjeta,No,Oeste
+327,2023-11-11,Reloj Inteligente,Electrónica,1,653.7,653.7,Transferencia,Sí,Este
+328,2023-08-25,Cámara,Accesorios,8,865.54,6924.32,Efectivo,No,Oeste
+329,2023-12-08,Auriculares,Electrónica,7,261.3,1829.1,Efectivo,Sí,Norte
+330,2023-10-26,Smartphone,Hogar,5,489.59,2447.95,Transferencia,Sí,Oeste
+331,2023-08-27,Laptop,Oficina,9,451.1,4059.9,Transferencia,Sí,Sur
+332,2023-04-08,Auriculares,Oficina,7,165.51,1158.57,Tarjeta,Sí,Este
+333,2023-08-26,Cámara,Hogar,3,395.86,1187.58,Tarjeta,Sí,Sur
+334,2023-11-15,Impresora,Hogar,3,998.04,2994.12,Tarjeta,Sí,Sur
+335,2023-12-15,Smartphone,Accesorios,5,877.3,4386.5,Tarjeta,No,Sur
+336,2023-01-16,Cámara,Electrónica,5,180.14,900.7,Efectivo,Sí,Sur
+337,2023-02-09,Auriculares,Hogar,3,939.89,2819.67,Transferencia,Sí,Este
+338,2023-07-11,Cámara,Oficina,10,282.62,2826.2,Efectivo,Sí,Norte
+339,2023-11-17,Teclado,Oficina,7,417.79,2924.53,Transferencia,Sí,Norte
+340,2023-05-02,Teclado,Hogar,7,193.86,1357.02,Transferencia,No,Sur
+341,2023-05-21,Laptop,Hogar,9,908.17,8173.53,Tarjeta,No,Norte
+342,2023-03-04,Smartphone,Oficina,10,455.77,4557.7,Tarjeta,No,Norte
+343,2023-11-25,Smartphone,Hogar,9,338.86,3049.74,Transferencia,Sí,Oeste
+344,2023-07-29,Cámara,Accesorios,10,839.96,8399.6,Efectivo,No,Este
+345,2023-10-16,Monitor,Hogar,8,76.68,613.44,Tarjeta,Sí,Sur
+346,2023-04-29,Cámara,Accesorios,5,903.52,4517.6,Tarjeta,Sí,Oeste
+347,2023-03-04,Auriculares,Hogar,6,875.91,5255.46,Transferencia,No,Este
+348,2023-01-23,Reloj Inteligente,Hogar,10,938.07,9380.7,Tarjeta,Sí,Este
+349,2023-05-06,Laptop,Hogar,1,783.54,783.54,Tarjeta,No,Norte
+350,2023-01-02,Cámara,Oficina,6,672.67,4036.02,Tarjeta,No,Oeste
+351,2023-12-29,Monitor,Accesorios,9,236.15,2125.35,Efectivo,No,Sur
+352,2023-12-10,Laptop,Oficina,8,94.25,754.0,Efectivo,No,Oeste
+353,2023-04-21,Reloj Inteligente,Oficina,8,684.55,5476.4,Tarjeta,Sí,Este
+354,2023-07-12,Auriculares,Hogar,5,358.97,1794.85,Tarjeta,Sí,Este
+355,2023-11-16,Auriculares,Oficina,1,226.87,226.87,Tarjeta,No,Oeste
+356,2023-05-17,Auriculares,Electrónica,10,118.23,1182.3,Transferencia,Sí,Oeste
+357,2023-01-04,Cámara,Hogar,8,883.21,7065.68,Tarjeta,No,Oeste
+358,2023-10-11,Monitor,Hogar,2,77.77,155.54,Tarjeta,Sí,Oeste
+359,2023-07-08,Cámara,Accesorios,8,28.78,230.24,Transferencia,Sí,Oeste
+360,2023-11-11,Reloj Inteligente,Electrónica,6,204.21,1225.26,Tarjeta,Sí,Este
+361,2023-12-17,Teclado,Oficina,3,130.72,392.16,Transferencia,Sí,Sur
+362,2023-08-21,Cámara,Hogar,5,517.29,2586.45,Transferencia,Sí,Oeste
+363,2023-08-28,Laptop,Accesorios,3,424.64,1273.92,Efectivo,No,Oeste
+364,2023-09-23,Reloj Inteligente,Accesorios,2,227.26,454.52,Transferencia,Sí,Norte
+365,2023-11-14,Cámara,Oficina,2,371.08,742.16,Efectivo,Sí,Norte
+366,2023-11-22,Reloj Inteligente,Hogar,8,432.83,3462.64,Transferencia,Sí,Oeste
+367,2023-10-10,Cámara,Oficina,8,722.2,5777.6,Tarjeta,No,Oeste
+368,2023-10-04,Laptop,Accesorios,5,995.18,4975.9,Transferencia,Sí,Sur
+369,2023-08-11,Smartphone,Electrónica,2,202.59,405.18,Efectivo,Sí,Oeste
+370,2023-02-01,Impresora,Accesorios,8,759.97,6079.76,Tarjeta,Sí,Oeste
+371,2023-09-24,Teclado,Electrónica,1,199.8,199.8,Efectivo,Sí,Oeste
+372,2023-02-13,Teclado,Electrónica,7,69.27,484.89,Efectivo,Sí,Oeste
+373,2023-07-28,Teclado,Oficina,3,978.62,2935.86,Tarjeta,Sí,Oeste
+374,2023-02-04,Impresora,Hogar,10,209.7,2097.0,Efectivo,No,Sur
+375,2023-05-15,Cámara,Oficina,4,479.99,1919.96,Efectivo,No,Oeste
+376,2023-07-01,Smartphone,Electrónica,5,261.34,1306.7,Efectivo,No,Norte
+377,2023-08-13,Cámara,Accesorios,4,48.8,195.2,Tarjeta,Sí,Este
+378,2023-04-29,Monitor,Accesorios,6,829.04,4974.24,Transferencia,Sí,Este
+379,2023-11-08,Laptop,Electrónica,6,670.44,4022.64,Efectivo,No,Este
+380,2023-12-21,Teclado,Hogar,4,637.92,2551.68,Transferencia,No,Sur
+381,2023-07-06,Impresora,Accesorios,3,969.76,2909.28,Transferencia,No,Este
+382,2023-02-16,Cámara,Electrónica,8,414.93,3319.44,Tarjeta,No,Sur
+383,2023-08-02,Laptop,Accesorios,5,457.71,2288.55,Efectivo,No,Este
+384,2023-07-17,Cámara,Hogar,9,935.91,8423.19,Efectivo,No,Oeste
+385,2023-09-16,Cámara,Accesorios,3,974.97,2924.91,Transferencia,Sí,Este
+386,2023-08-15,Smartphone,Oficina,1,420.01,420.01,Efectivo,Sí,Oeste
+387,2023-11-22,Laptop,Electrónica,7,950.67,6654.69,Tarjeta,Sí,Oeste
+388,2023-04-29,Cámara,Electrónica,6,441.1,2646.6,Efectivo,Sí,Norte
+389,2023-05-17,Impresora,Electrónica,6,26.2,157.2,Efectivo,No,Sur
+390,2023-09-18,Cámara,Electrónica,4,53.66,214.64,Transferencia,Sí,Sur
+391,2023-07-24,Monitor,Electrónica,2,628.19,1256.38,Efectivo,Sí,Norte
+392,2023-10-23,Smartphone,Oficina,2,509.33,1018.66,Transferencia,Sí,Sur
+393,2023-10-12,Teclado,Oficina,7,683.0,4781.0,Tarjeta,Sí,Sur
+394,2023-09-08,Teclado,Oficina,7,837.75,5864.25,Transferencia,Sí,Oeste
+395,2023-10-21,Reloj Inteligente,Electrónica,4,229.15,916.6,Tarjeta,No,Oeste
+396,2023-08-24,Monitor,Electrónica,6,954.08,5724.48,Tarjeta,Sí,Este
+397,2023-01-27,Impresora,Accesorios,5,749.99,3749.95,Transferencia,No,Norte
+398,2023-05-01,Auriculares,Oficina,3,990.76,2972.28,Tarjeta,Sí,Norte
+399,2023-02-12,Laptop,Oficina,2,640.32,1280.64,Efectivo,Sí,Norte
+400,2023-04-25,Monitor,Oficina,8,978.41,7827.28,Tarjeta,Sí,Norte
+401,2023-06-18,Auriculares,Accesorios,8,146.94,1175.52,Transferencia,No,Oeste
+402,2023-11-26,Teclado,Hogar,8,645.13,5161.04,Efectivo,Sí,Este
+403,2023-10-02,Cámara,Electrónica,2,761.53,1523.06,Tarjeta,No,Oeste
+404,2023-12-09,Impresora,Oficina,9,629.0,5661.0,Transferencia,Sí,Oeste
+405,2023-01-08,Laptop,Oficina,8,932.66,7461.28,Tarjeta,No,Oeste
+406,2023-12-21,Reloj Inteligente,Electrónica,9,846.72,7620.48,Tarjeta,No,Este
+407,2023-01-23,Reloj Inteligente,Accesorios,7,549.55,3846.85,Transferencia,No,Oeste
+408,2023-01-28,Impresora,Hogar,9,12.47,112.23,Tarjeta,Sí,Sur
+409,2023-06-27,Smartphone,Hogar,2,866.55,1733.1,Tarjeta,No,Norte
+410,2023-02-13,Smartphone,Oficina,2,415.67,831.34,Tarjeta,Sí,Oeste
+411,2023-09-20,Teclado,Oficina,5,492.8,2464.0,Transferencia,No,Este
+412,2023-08-29,Reloj Inteligente,Accesorios,9,241.06,2169.54,Transferencia,No,Sur
+413,2023-07-06,Impresora,Accesorios,8,972.0,7776.0,Tarjeta,No,Sur
+414,2023-07-02,Monitor,Electrónica,1,431.28,431.28,Tarjeta,Sí,Norte
+415,2023-03-19,Laptop,Oficina,2,377.37,754.74,Transferencia,No,Norte
+416,2023-08-04,Impresora,Accesorios,8,225.4,1803.2,Transferencia,No,Este
+417,2023-11-11,Smartphone,Accesorios,2,945.03,1890.06,Tarjeta,No,Norte
+418,2023-10-24,Laptop,Hogar,8,682.89,5463.12,Efectivo,Sí,Norte
+419,2023-11-27,Smartphone,Electrónica,7,915.65,6409.55,Transferencia,Sí,Oeste
+420,2023-09-06,Smartphone,Oficina,6,586.56,3519.36,Efectivo,Sí,Norte
+421,2023-02-11,Cámara,Oficina,4,797.45,3189.8,Transferencia,Sí,Oeste
+422,2023-10-01,Monitor,Oficina,8,700.18,5601.44,Transferencia,Sí,Norte
+423,2023-10-31,Reloj Inteligente,Electrónica,5,22.19,110.95,Transferencia,Sí,Oeste
+424,2023-06-22,Laptop,Hogar,2,331.78,663.56,Efectivo,Sí,Norte
+425,2023-12-03,Cámara,Electrónica,8,288.33,2306.64,Efectivo,Sí,Sur
+426,2023-01-07,Laptop,Oficina,4,498.96,1995.84,Tarjeta,Sí,Oeste
+427,2023-03-17,Reloj Inteligente,Oficina,3,342.36,1027.08,Efectivo,Sí,Oeste
+428,2023-10-08,Reloj Inteligente,Oficina,4,461.06,1844.24,Transferencia,Sí,Este
+429,2023-10-14,Impresora,Accesorios,2,433.72,867.44,Efectivo,No,Norte
+430,2023-07-17,Reloj Inteligente,Hogar,2,68.9,137.8,Tarjeta,Sí,Oeste
+431,2023-05-21,Reloj Inteligente,Hogar,1,709.4,709.4,Tarjeta,Sí,Norte
+432,2023-05-13,Cámara,Hogar,8,661.52,5292.16,Efectivo,Sí,Oeste
+433,2023-12-01,Auriculares,Oficina,7,631.61,4421.27,Transferencia,Sí,Este
+434,2023-06-28,Impresora,Accesorios,5,123.23,616.15,Transferencia,No,Sur
+435,2023-12-29,Monitor,Accesorios,6,990.09,5940.54,Transferencia,Sí,Sur
+436,2023-02-20,Teclado,Hogar,4,127.27,509.08,Transferencia,No,Este
+437,2023-01-13,Auriculares,Oficina,5,956.5,4782.5,Tarjeta,Sí,Sur
+438,2023-03-10,Cámara,Accesorios,1,422.5,422.5,Transferencia,No,Este
+439,2023-12-31,Smartphone,Hogar,6,838.41,5030.46,Efectivo,No,Norte
+440,2023-07-29,Smartphone,Electrónica,7,156.91,1098.37,Transferencia,Sí,Sur
+441,2023-05-28,Monitor,Accesorios,7,140.31,982.17,Transferencia,No,Norte
+442,2023-04-17,Reloj Inteligente,Oficina,1,551.47,551.47,Transferencia,Sí,Oeste
+443,2023-08-05,Cámara,Electrónica,3,965.13,2895.39,Transferencia,No,Norte
+444,2023-08-22,Monitor,Accesorios,8,807.21,6457.68,Tarjeta,No,Norte
+445,2023-11-20,Auriculares,Oficina,6,454.76,2728.56,Tarjeta,No,Este
+446,2023-02-09,Monitor,Oficina,1,261.47,261.47,Tarjeta,No,Este
+447,2023-06-15,Smartphone,Hogar,7,361.21,2528.47,Tarjeta,Sí,Este
+448,2023-10-25,Monitor,Electrónica,5,318.49,1592.45,Transferencia,Sí,Sur
+449,2023-02-15,Laptop,Oficina,5,561.21,2806.05,Efectivo,No,Norte
+450,2023-05-29,Auriculares,Accesorios,7,445.57,3118.99,Tarjeta,Sí,Sur
+451,2023-08-08,Reloj Inteligente,Hogar,4,578.93,2315.72,Tarjeta,No,Norte
+452,2023-06-23,Laptop,Electrónica,6,408.61,2451.66,Transferencia,No,Este
+453,2023-06-30,Auriculares,Accesorios,9,763.94,6875.46,Tarjeta,No,Oeste
+454,2023-12-17,Reloj Inteligente,Oficina,2,735.25,1470.5,Tarjeta,No,Este
+455,2023-12-13,Impresora,Electrónica,3,389.02,1167.06,Efectivo,Sí,Oeste
+456,2023-07-14,Cámara,Accesorios,1,631.11,631.11,Efectivo,No,Oeste
+457,2023-07-08,Cámara,Accesorios,5,440.09,2200.45,Tarjeta,Sí,Este
+458,2023-05-24,Laptop,Accesorios,8,514.24,4113.92,Transferencia,No,Oeste
+459,2023-03-23,Reloj Inteligente,Accesorios,6,274.66,1647.96,Transferencia,No,Sur
+460,2023-11-21,Reloj Inteligente,Hogar,3,799.92,2399.76,Efectivo,No,Este
+461,2023-02-02,Smartphone,Accesorios,1,539.15,539.15,Tarjeta,Sí,Este
+462,2023-07-14,Teclado,Oficina,4,847.83,3391.32,Tarjeta,Sí,Sur
+463,2023-02-07,Auriculares,Electrónica,10,973.43,9734.3,Efectivo,Sí,Oeste
+464,2023-09-12,Cámara,Accesorios,10,595.12,5951.2,Tarjeta,Sí,Este
+465,2023-12-20,Cámara,Oficina,5,385.75,1928.75,Transferencia,Sí,Oeste
+466,2023-01-14,Teclado,Hogar,6,631.61,3789.66,Tarjeta,No,Oeste
+467,2023-09-10,Auriculares,Electrónica,7,454.74,3183.18,Transferencia,Sí,Sur
+468,2023-03-18,Monitor,Electrónica,4,53.55,214.2,Transferencia,No,Sur
+469,2023-06-16,Teclado,Accesorios,4,581.76,2327.04,Tarjeta,No,Sur
+470,2023-10-01,Auriculares,Electrónica,6,306.41,1838.46,Tarjeta,No,Oeste
+471,2023-12-24,Auriculares,Hogar,9,150.59,1355.31,Transferencia,Sí,Sur
+472,2023-04-18,Laptop,Electrónica,4,705.69,2822.76,Transferencia,No,Sur
+473,2023-09-12,Smartphone,Hogar,8,881.08,7048.64,Tarjeta,Sí,Norte
+474,2023-11-23,Teclado,Oficina,1,309.79,309.79,Transferencia,No,Sur
+475,2023-10-11,Monitor,Electrónica,7,449.58,3147.06,Transferencia,Sí,Sur
+476,2023-05-22,Smartphone,Electrónica,1,855.57,855.57,Transferencia,Sí,Oeste
+477,2023-07-25,Teclado,Accesorios,6,226.55,1359.3,Tarjeta,Sí,Norte
+478,2023-02-14,Teclado,Electrónica,3,967.88,2903.64,Tarjeta,No,Sur
+479,2023-01-22,Laptop,Oficina,10,396.15,3961.5,Tarjeta,Sí,Oeste
+480,2023-01-27,Smartphone,Oficina,10,268.81,2688.1,Efectivo,Sí,Este
+481,2023-08-28,Monitor,Accesorios,6,458.26,2749.56,Efectivo,No,Norte
+482,2023-08-31,Reloj Inteligente,Electrónica,2,701.89,1403.78,Transferencia,No,Sur
+483,2023-07-01,Cámara,Accesorios,10,502.65,5026.5,Efectivo,Sí,Sur
+484,2023-12-13,Auriculares,Electrónica,9,182.02,1638.18,Transferencia,Sí,Sur
+485,2023-07-12,Monitor,Oficina,1,356.97,356.97,Tarjeta,No,Oeste
+486,2023-12-05,Teclado,Electrónica,8,465.81,3726.48,Tarjeta,No,Este
+487,2023-10-09,Smartphone,Electrónica,5,203.96,1019.8,Efectivo,No,Sur
+488,2023-09-11,Reloj Inteligente,Oficina,2,284.36,568.72,Tarjeta,Sí,Norte
+489,2023-06-15,Impresora,Accesorios,10,476.69,4766.9,Efectivo,Sí,Norte
+490,2023-03-10,Reloj Inteligente,Electrónica,1,121.54,121.54,Efectivo,No,Norte
+491,2023-10-24,Monitor,Electrónica,9,789.81,7108.29,Transferencia,Sí,Sur
+492,2023-01-11,Auriculares,Hogar,4,53.85,215.4,Efectivo,No,Norte
+493,2023-08-11,Smartphone,Accesorios,7,361.33,2529.31,Transferencia,Sí,Sur
+494,2023-11-24,Monitor,Oficina,2,756.57,1513.14,Efectivo,Sí,Norte
+495,2023-02-19,Monitor,Hogar,8,806.96,6455.68,Transferencia,No,Oeste
+496,2023-09-25,Impresora,Accesorios,3,643.77,1931.31,Tarjeta,No,Norte
+497,2023-11-16,Teclado,Oficina,6,387.58,2325.48,Transferencia,No,Oeste
+498,2023-02-04,Monitor,Hogar,8,643.42,5147.36,Transferencia,Sí,Este
+499,2023-07-28,Laptop,Oficina,7,590.77,4135.39,Efectivo,Sí,Norte
+500,2023-11-26,Cámara,Accesorios,3,454.19,1362.57,Efectivo,Sí,Sur
+501,2023-08-07,Cámara,Oficina,3,766.1,2298.3,Tarjeta,Sí,Norte
+502,2023-05-26,Monitor,Oficina,6,825.36,4952.16,Tarjeta,Sí,Sur
+503,2023-11-11,Reloj Inteligente,Electrónica,6,529.89,3179.34,Transferencia,No,Norte
+504,2023-08-18,Monitor,Oficina,8,784.21,6273.68,Transferencia,No,Sur
+505,2023-02-22,Cámara,Oficina,2,317.51,635.02,Tarjeta,No,Sur
+506,2023-08-21,Teclado,Accesorios,10,387.6,3876.0,Efectivo,Sí,Oeste
+507,2023-01-31,Impresora,Hogar,4,144.64,578.56,Efectivo,No,Este
+508,2023-12-20,Laptop,Electrónica,5,623.35,3116.75,Tarjeta,Sí,Sur
+509,2023-08-21,Cámara,Oficina,6,405.25,2431.5,Transferencia,Sí,Norte
+510,2023-10-14,Auriculares,Oficina,4,858.33,3433.32,Transferencia,Sí,Este
+511,2023-11-29,Auriculares,Hogar,6,602.71,3616.26,Efectivo,No,Norte
+512,2023-03-21,Teclado,Oficina,7,542.95,3800.65,Tarjeta,Sí,Sur
+513,2023-01-24,Cámara,Hogar,7,648.84,4541.88,Tarjeta,No,Norte
+514,2023-03-29,Cámara,Oficina,7,215.49,1508.43,Tarjeta,No,Norte
+515,2023-12-20,Teclado,Accesorios,10,523.66,5236.6,Transferencia,No,Norte
+516,2023-10-30,Teclado,Electrónica,5,440.15,2200.75,Tarjeta,No,Sur
+517,2024-01-01,Cámara,Oficina,7,897.11,6279.77,Tarjeta,Sí,Este
+518,2023-12-27,Laptop,Hogar,4,360.93,1443.72,Tarjeta,Sí,Este
+519,2023-07-12,Smartphone,Oficina,4,482.15,1928.6,Transferencia,No,Oeste
+520,2023-11-20,Smartphone,Hogar,8,460.75,3686.0,Tarjeta,Sí,Norte
+521,2023-08-12,Impresora,Accesorios,10,792.61,7926.1,Tarjeta,Sí,Sur
+522,2023-06-17,Monitor,Hogar,6,161.3,967.8,Tarjeta,No,Oeste
+523,2023-05-20,Reloj Inteligente,Oficina,9,980.2,8821.8,Tarjeta,No,Oeste
+524,2023-11-26,Impresora,Electrónica,3,167.97,503.91,Transferencia,Sí,Oeste
+525,2023-05-25,Teclado,Electrónica,2,526.48,1052.96,Efectivo,Sí,Norte
+526,2023-07-11,Reloj Inteligente,Hogar,5,860.44,4302.2,Efectivo,No,Este
+527,2023-03-08,Cámara,Oficina,5,888.25,4441.25,Transferencia,Sí,Oeste
+528,2023-06-20,Impresora,Oficina,9,98.5,886.5,Tarjeta,No,Norte
+529,2023-01-16,Smartphone,Oficina,4,484.16,1936.64,Efectivo,No,Norte
+530,2023-12-15,Reloj Inteligente,Accesorios,6,502.05,3012.3,Tarjeta,Sí,Oeste
+531,2023-05-06,Impresora,Accesorios,5,127.21,636.05,Tarjeta,Sí,Sur
+532,2023-06-22,Reloj Inteligente,Hogar,5,313.28,1566.4,Efectivo,Sí,Oeste
+533,2023-11-28,Auriculares,Oficina,1,189.8,189.8,Transferencia,Sí,Oeste
+534,2023-06-18,Laptop,Accesorios,9,914.83,8233.47,Efectivo,No,Este
+535,2023-07-17,Cámara,Accesorios,7,811.69,5681.83,Transferencia,No,Este
+536,2023-12-30,Cámara,Oficina,3,371.59,1114.77,Efectivo,No,Norte
+537,2023-02-15,Laptop,Accesorios,4,720.05,2880.2,Efectivo,Sí,Sur
+538,2023-07-04,Monitor,Accesorios,3,910.01,2730.03,Transferencia,No,Sur
+539,2023-04-05,Monitor,Electrónica,9,566.93,5102.37,Tarjeta,No,Sur
+540,2023-02-02,Auriculares,Oficina,2,486.77,973.54,Transferencia,Sí,Sur
+541,2023-03-19,Smartphone,Hogar,10,827.57,8275.7,Transferencia,No,Sur
+542,2023-07-01,Cámara,Oficina,9,77.9,701.1,Transferencia,No,Sur
+543,2023-02-23,Smartphone,Hogar,4,107.64,430.56,Tarjeta,Sí,Oeste
+544,2023-06-26,Cámara,Hogar,8,211.41,1691.28,Tarjeta,Sí,Sur
+545,2023-06-15,Reloj Inteligente,Electrónica,2,452.92,905.84,Tarjeta,Sí,Este
+546,2023-09-29,Cámara,Accesorios,6,414.5,2487.0,Efectivo,No,Este
+547,2023-07-07,Auriculares,Accesorios,1,986.45,986.45,Tarjeta,No,Norte
+548,2023-09-20,Cámara,Hogar,9,488.38,4395.42,Tarjeta,No,Este
+549,2023-11-27,Smartphone,Electrónica,3,788.3,2364.9,Tarjeta,Sí,Sur
+550,2023-10-25,Impresora,Electrónica,7,645.86,4521.02,Transferencia,Sí,Oeste
+551,2023-12-24,Cámara,Oficina,3,23.62,70.86,Efectivo,No,Oeste
+552,2023-01-10,Smartphone,Electrónica,10,236.9,2369.0,Tarjeta,No,Oeste
+553,2023-06-28,Cámara,Hogar,6,796.76,4780.56,Efectivo,No,Sur
+554,2023-05-22,Monitor,Electrónica,2,579.64,1159.28,Tarjeta,No,Sur
+555,2023-06-20,Monitor,Accesorios,6,808.48,4850.88,Tarjeta,No,Este
+556,2023-11-20,Teclado,Oficina,1,271.62,271.62,Transferencia,Sí,Oeste
+557,2023-06-20,Impresora,Hogar,7,754.83,5283.81,Transferencia,No,Norte
+558,2023-05-30,Smartphone,Hogar,10,503.53,5035.3,Transferencia,No,Norte
+559,2023-05-06,Laptop,Hogar,1,179.33,179.33,Tarjeta,Sí,Norte
+560,2023-04-16,Smartphone,Electrónica,1,459.24,459.24,Tarjeta,No,Norte
+561,2023-09-20,Smartphone,Hogar,5,687.37,3436.85,Tarjeta,No,Este
+562,2023-10-14,Teclado,Hogar,5,569.42,2847.1,Transferencia,Sí,Sur
+563,2023-02-15,Impresora,Hogar,10,739.16,7391.6,Tarjeta,No,Sur
+564,2023-02-27,Teclado,Oficina,1,242.22,242.22,Efectivo,No,Norte
+565,2023-07-20,Laptop,Oficina,9,315.55,2839.95,Tarjeta,Sí,Norte
+566,2023-12-28,Monitor,Hogar,10,149.04,1490.4,Transferencia,Sí,Oeste
+567,2023-11-17,Teclado,Oficina,9,255.77,2301.93,Transferencia,Sí,Este
+568,2023-10-29,Teclado,Oficina,9,260.94,2348.46,Efectivo,Sí,Este
+569,2023-01-18,Teclado,Oficina,4,788.37,3153.48,Transferencia,Sí,Sur
+570,2023-08-06,Smartphone,Accesorios,3,265.01,795.03,Efectivo,Sí,Este
+571,2023-02-21,Laptop,Hogar,5,116.42,582.1,Tarjeta,Sí,Este
+572,2023-11-29,Teclado,Hogar,10,340.54,3405.4,Transferencia,Sí,Oeste
+573,2023-11-05,Auriculares,Oficina,8,344.38,2755.04,Efectivo,Sí,Sur
+574,2023-09-05,Cámara,Electrónica,1,238.0,238.0,Tarjeta,Sí,Sur
+575,2023-07-25,Cámara,Accesorios,1,190.7,190.7,Tarjeta,Sí,Sur
+576,2023-09-06,Reloj Inteligente,Hogar,3,939.46,2818.38,Transferencia,Sí,Norte
+577,2023-08-23,Reloj Inteligente,Hogar,5,290.3,1451.5,Tarjeta,Sí,Este
+578,2023-06-11,Cámara,Hogar,7,915.06,6405.42,Tarjeta,Sí,Norte
+579,2023-08-25,Smartphone,Accesorios,5,335.73,1678.65,Efectivo,No,Norte
+580,2023-02-03,Smartphone,Electrónica,1,875.63,875.63,Efectivo,No,Sur
+581,2023-09-21,Laptop,Accesorios,8,951.73,7613.84,Transferencia,No,Sur
+582,2023-10-05,Monitor,Accesorios,7,274.39,1920.73,Tarjeta,No,Sur
+583,2023-08-08,Laptop,Oficina,4,356.7,1426.8,Efectivo,Sí,Sur
+584,2023-02-18,Impresora,Electrónica,2,224.64,449.28,Transferencia,No,Sur
+585,2023-11-30,Reloj Inteligente,Electrónica,6,483.0,2898.0,Transferencia,No,Sur
+586,2023-10-26,Reloj Inteligente,Accesorios,8,593.56,4748.48,Tarjeta,Sí,Oeste
+587,2023-09-06,Monitor,Electrónica,7,29.44,206.08,Transferencia,No,Sur
+588,2023-01-24,Cámara,Electrónica,7,766.73,5367.11,Efectivo,No,Norte
+589,2023-06-23,Auriculares,Electrónica,4,822.0,3288.0,Tarjeta,No,Norte
+590,2023-09-30,Teclado,Accesorios,10,585.34,5853.4,Tarjeta,Sí,Este
+591,2023-04-27,Cámara,Electrónica,1,713.63,713.63,Transferencia,No,Sur
+592,2023-02-17,Smartphone,Electrónica,7,993.31,6953.17,Transferencia,Sí,Este
+593,2023-10-20,Auriculares,Accesorios,9,192.23,1730.07,Transferencia,No,Sur
+594,2023-12-28,Reloj Inteligente,Electrónica,10,803.4,8034.0,Tarjeta,Sí,Este
+595,2023-03-06,Monitor,Accesorios,2,232.81,465.62,Tarjeta,Sí,Norte
+596,2023-03-21,Impresora,Accesorios,10,42.27,422.7,Tarjeta,No,Norte
+597,2023-08-01,Monitor,Hogar,4,199.08,796.32,Tarjeta,Sí,Norte
+598,2023-06-25,Impresora,Oficina,8,897.18,7177.44,Tarjeta,No,Este
+599,2023-05-24,Cámara,Hogar,6,946.43,5678.58,Efectivo,No,Oeste
+600,2023-04-17,Teclado,Electrónica,1,630.92,630.92,Transferencia,No,Norte
+601,2023-11-28,Impresora,Accesorios,6,505.27,3031.62,Efectivo,No,Oeste
+602,2023-04-10,Impresora,Accesorios,6,890.86,5345.16,Tarjeta,No,Oeste
+603,2023-05-11,Impresora,Accesorios,1,28.43,28.43,Efectivo,Sí,Este
+604,2023-06-13,Smartphone,Accesorios,4,980.03,3920.12,Transferencia,No,Oeste
+605,2023-08-04,Impresora,Hogar,3,754.71,2264.13,Tarjeta,No,Oeste
+606,2023-06-09,Reloj Inteligente,Accesorios,8,149.91,1199.28,Tarjeta,Sí,Oeste
+607,2023-08-28,Auriculares,Accesorios,3,698.64,2095.92,Tarjeta,No,Sur
+608,2023-04-09,Reloj Inteligente,Electrónica,3,109.69,329.07,Tarjeta,No,Sur
+609,2023-11-25,Teclado,Oficina,8,465.52,3724.16,Efectivo,Sí,Oeste
+610,2023-11-29,Laptop,Hogar,5,798.62,3993.1,Transferencia,No,Norte
+611,2023-07-08,Auriculares,Electrónica,5,27.29,136.45,Transferencia,Sí,Oeste
+612,2023-05-17,Laptop,Accesorios,7,677.64,4743.48,Efectivo,Sí,Sur
+613,2023-07-30,Laptop,Electrónica,6,995.59,5973.54,Tarjeta,No,Sur
+614,2023-10-02,Auriculares,Hogar,9,528.42,4755.78,Transferencia,No,Este
+615,2023-02-27,Cámara,Electrónica,5,55.39,276.95,Tarjeta,Sí,Este
+616,2023-12-01,Impresora,Hogar,1,942.31,942.31,Efectivo,Sí,Norte
+617,2023-06-14,Impresora,Accesorios,7,878.44,6149.08,Efectivo,Sí,Sur
+618,2023-09-08,Impresora,Electrónica,3,382.29,1146.87,Efectivo,No,Este
+619,2023-12-23,Smartphone,Oficina,9,724.96,6524.64,Efectivo,Sí,Sur
+620,2023-03-19,Laptop,Hogar,6,894.78,5368.68,Transferencia,Sí,Oeste
+621,2023-12-17,Auriculares,Electrónica,9,888.75,7998.75,Tarjeta,Sí,Sur
+622,2023-02-24,Laptop,Electrónica,8,37.47,299.76,Efectivo,No,Este
+623,2023-07-07,Teclado,Electrónica,2,419.5,839.0,Tarjeta,No,Norte
+624,2023-06-19,Laptop,Hogar,3,960.17,2880.51,Transferencia,No,Oeste
+625,2023-02-16,Monitor,Hogar,6,289.43,1736.58,Transferencia,No,Oeste
+626,2023-11-01,Reloj Inteligente,Electrónica,4,516.72,2066.88,Transferencia,Sí,Este
+627,2023-12-14,Smartphone,Oficina,2,60.3,120.6,Efectivo,Sí,Norte
+628,2023-08-10,Reloj Inteligente,Hogar,2,99.85,199.7,Efectivo,Sí,Oeste
+629,2023-04-17,Smartphone,Hogar,7,653.84,4576.88,Transferencia,No,Sur
+630,2023-09-02,Monitor,Accesorios,6,503.8,3022.8,Transferencia,Sí,Norte
+631,2023-06-18,Cámara,Electrónica,1,744.04,744.04,Tarjeta,No,Norte
+632,2023-05-18,Monitor,Electrónica,10,555.64,5556.4,Efectivo,Sí,Oeste
+633,2023-06-16,Cámara,Oficina,4,825.77,3303.08,Tarjeta,No,Sur
+634,2023-03-02,Auriculares,Oficina,1,731.86,731.86,Transferencia,Sí,Sur
+635,2023-06-12,Monitor,Oficina,4,745.11,2980.44,Transferencia,Sí,Este
+636,2023-06-23,Monitor,Oficina,3,824.26,2472.78,Efectivo,No,Sur
+637,2023-05-12,Monitor,Accesorios,3,886.5,2659.5,Tarjeta,Sí,Norte
+638,2023-05-22,Reloj Inteligente,Accesorios,9,809.68,7287.12,Efectivo,No,Este
+639,2023-08-12,Impresora,Electrónica,3,575.74,1727.22,Transferencia,No,Este
+640,2023-07-14,Monitor,Hogar,9,579.88,5218.92,Tarjeta,Sí,Sur
+641,2023-01-23,Laptop,Accesorios,5,997.04,4985.2,Efectivo,Sí,Este
+642,2023-04-15,Teclado,Accesorios,6,122.19,733.14,Tarjeta,Sí,Este
+643,2023-02-20,Reloj Inteligente,Hogar,5,546.82,2734.1,Transferencia,No,Oeste
+644,2023-02-15,Laptop,Hogar,10,693.34,6933.4,Tarjeta,No,Este
+645,2023-05-05,Auriculares,Hogar,4,954.21,3816.84,Transferencia,Sí,Este
+646,2023-05-02,Laptop,Accesorios,8,318.21,2545.68,Efectivo,Sí,Norte
+647,2023-10-04,Auriculares,Accesorios,4,81.54,326.16,Tarjeta,No,Norte
+648,2023-12-01,Reloj Inteligente,Oficina,5,603.47,3017.35,Tarjeta,Sí,Este
+649,2023-01-27,Impresora,Hogar,1,665.43,665.43,Efectivo,Sí,Oeste
+650,2023-07-08,Laptop,Accesorios,3,406.28,1218.84,Efectivo,Sí,Oeste
+651,2023-09-10,Cámara,Hogar,6,478.99,2873.94,Tarjeta,No,Norte
+652,2023-08-13,Laptop,Hogar,9,792.8,7135.2,Tarjeta,Sí,Este
+653,2023-01-17,Cámara,Electrónica,8,174.66,1397.28,Transferencia,No,Sur
+654,2023-07-01,Auriculares,Hogar,3,81.54,244.62,Transferencia,Sí,Este
+655,2023-05-19,Auriculares,Hogar,10,816.59,8165.9,Efectivo,No,Oeste
+656,2023-10-31,Impresora,Oficina,1,33.76,33.76,Transferencia,No,Oeste
+657,2023-10-19,Smartphone,Oficina,1,782.35,782.35,Transferencia,No,Norte
+658,2023-04-09,Teclado,Accesorios,8,747.99,5983.92,Tarjeta,Sí,Sur
+659,2023-02-15,Teclado,Electrónica,8,756.66,6053.28,Transferencia,Sí,Norte
+660,2023-03-26,Auriculares,Accesorios,5,207.61,1038.05,Transferencia,No,Oeste
+661,2023-09-30,Auriculares,Hogar,6,964.66,5787.96,Transferencia,Sí,Este
+662,2023-04-01,Auriculares,Accesorios,6,966.91,5801.46,Transferencia,Sí,Oeste
+663,2023-11-08,Impresora,Oficina,6,992.35,5954.1,Transferencia,No,Sur
+664,2023-07-02,Auriculares,Oficina,2,494.03,988.06,Efectivo,Sí,Este
+665,2023-04-08,Laptop,Oficina,4,15.59,62.36,Tarjeta,No,Norte
+666,2023-06-19,Auriculares,Electrónica,10,396.55,3965.5,Efectivo,No,Norte
+667,2023-04-07,Teclado,Oficina,6,983.15,5898.9,Tarjeta,Sí,Oeste
+668,2023-10-13,Impresora,Oficina,4,849.5,3398.0,Tarjeta,Sí,Norte
+669,2023-10-29,Reloj Inteligente,Accesorios,4,511.45,2045.8,Efectivo,Sí,Norte
+670,2023-02-05,Smartphone,Accesorios,7,719.68,5037.76,Transferencia,Sí,Este
+671,2023-08-13,Teclado,Electrónica,10,451.29,4512.9,Transferencia,Sí,Este
+672,2023-11-24,Laptop,Hogar,4,133.03,532.12,Transferencia,Sí,Sur
+673,2023-02-05,Laptop,Electrónica,10,918.73,9187.3,Transferencia,Sí,Este
+674,2023-04-22,Reloj Inteligente,Electrónica,3,990.67,2972.01,Transferencia,No,Norte
+675,2023-03-22,Cámara,Hogar,10,767.17,7671.7,Transferencia,No,Norte
+676,2023-11-19,Impresora,Electrónica,1,42.22,42.22,Efectivo,Sí,Este
+677,2023-02-27,Cámara,Oficina,1,659.65,659.65,Transferencia,Sí,Oeste
+678,2023-06-25,Monitor,Electrónica,1,121.4,121.4,Efectivo,No,Este
+679,2023-10-28,Auriculares,Accesorios,8,614.22,4913.76,Efectivo,No,Este
+680,2023-02-06,Monitor,Accesorios,6,774.79,4648.74,Transferencia,No,Oeste
+681,2023-09-03,Impresora,Electrónica,8,511.32,4090.56,Tarjeta,Sí,Este
+682,2023-04-10,Teclado,Hogar,2,193.6,387.2,Transferencia,No,Norte
+683,2023-08-04,Auriculares,Hogar,4,940.67,3762.68,Transferencia,No,Oeste
+684,2023-06-21,Cámara,Accesorios,2,715.72,1431.44,Tarjeta,Sí,Norte
+685,2023-10-11,Cámara,Oficina,9,506.87,4561.83,Efectivo,Sí,Norte
+686,2023-09-24,Laptop,Electrónica,7,855.5,5988.5,Tarjeta,Sí,Este
+687,2023-07-24,Laptop,Electrónica,7,563.86,3947.02,Efectivo,No,Sur
+688,2023-05-12,Smartphone,Oficina,6,974.1,5844.6,Transferencia,No,Sur
+689,2023-12-22,Cámara,Electrónica,9,42.28,380.52,Transferencia,Sí,Norte
+690,2023-02-20,Cámara,Hogar,4,821.06,3284.24,Transferencia,No,Este
+691,2023-04-22,Laptop,Electrónica,5,760.25,3801.25,Tarjeta,Sí,Este
+692,2023-08-19,Teclado,Oficina,9,944.49,8500.41,Efectivo,No,Sur
+693,2023-11-27,Reloj Inteligente,Accesorios,9,979.6,8816.4,Transferencia,Sí,Este
+694,2023-12-01,Cámara,Oficina,2,88.73,177.46,Transferencia,No,Oeste
+695,2023-06-08,Laptop,Oficina,5,578.76,2893.8,Transferencia,No,Sur
+696,2023-12-08,Teclado,Accesorios,6,84.0,504.0,Transferencia,Sí,Este
+697,2023-06-27,Cámara,Accesorios,3,647.39,1942.17,Efectivo,No,Sur
+698,2023-10-18,Cámara,Accesorios,3,286.24,858.72,Transferencia,Sí,Norte
+699,2023-10-25,Reloj Inteligente,Hogar,8,802.51,6420.08,Efectivo,No,Sur
+700,2023-08-16,Monitor,Accesorios,10,496.99,4969.9,Tarjeta,No,Este
+701,2023-09-09,Teclado,Oficina,10,635.76,6357.6,Transferencia,Sí,Norte
+702,2023-05-30,Smartphone,Accesorios,7,395.78,2770.46,Efectivo,Sí,Este
+703,2023-03-10,Smartphone,Electrónica,3,210.7,632.1,Transferencia,Sí,Norte
+704,2023-05-13,Reloj Inteligente,Hogar,10,634.46,6344.6,Transferencia,Sí,Este
+705,2023-01-10,Laptop,Hogar,2,906.64,1813.28,Transferencia,No,Sur
+706,2023-08-28,Smartphone,Electrónica,10,112.96,1129.6,Efectivo,Sí,Oeste
+707,2023-02-01,Impresora,Accesorios,2,640.86,1281.72,Efectivo,Sí,Norte
+708,2023-12-21,Smartphone,Oficina,5,60.96,304.8,Efectivo,No,Este
+709,2023-08-30,Impresora,Accesorios,10,630.97,6309.7,Transferencia,Sí,Oeste
+710,2023-05-09,Cámara,Hogar,3,920.05,2760.15,Efectivo,Sí,Este
+711,2023-07-19,Reloj Inteligente,Oficina,10,78.29,782.9,Transferencia,Sí,Este
+712,2023-01-12,Reloj Inteligente,Electrónica,5,470.76,2353.8,Transferencia,No,Norte
+713,2023-09-29,Teclado,Hogar,1,913.08,913.08,Efectivo,Sí,Este
+714,2023-09-05,Laptop,Oficina,3,989.06,2967.18,Transferencia,Sí,Oeste
+715,2023-03-13,Smartphone,Oficina,5,565.56,2827.8,Tarjeta,Sí,Este
+716,2023-05-31,Monitor,Accesorios,9,915.25,8237.25,Transferencia,No,Oeste
+717,2023-01-12,Auriculares,Accesorios,8,326.42,2611.36,Tarjeta,Sí,Norte
+718,2023-11-08,Teclado,Oficina,7,964.11,6748.77,Tarjeta,Sí,Sur
+719,2023-06-12,Smartphone,Electrónica,6,259.13,1554.78,Transferencia,No,Sur
+720,2023-10-26,Cámara,Oficina,5,367.39,1836.95,Transferencia,Sí,Sur
+721,2023-10-20,Cámara,Electrónica,2,169.04,338.08,Tarjeta,Sí,Sur
+722,2023-10-31,Teclado,Oficina,1,595.14,595.14,Efectivo,Sí,Oeste
+723,2023-12-02,Smartphone,Oficina,1,468.23,468.23,Efectivo,No,Sur
+724,2023-07-28,Teclado,Oficina,7,313.01,2191.07,Transferencia,No,Este
+725,2023-06-29,Cámara,Electrónica,7,115.58,809.06,Efectivo,No,Este
+726,2023-04-28,Laptop,Accesorios,6,305.53,1833.18,Transferencia,Sí,Oeste
+727,2023-12-26,Smartphone,Oficina,3,360.26,1080.78,Transferencia,Sí,Sur
+728,2023-12-16,Impresora,Oficina,8,976.63,7813.04,Transferencia,No,Este
+729,2023-01-13,Laptop,Electrónica,2,851.51,1703.02,Efectivo,Sí,Este
+730,2023-06-14,Cámara,Oficina,7,453.37,3173.59,Tarjeta,Sí,Oeste
+731,2023-03-28,Smartphone,Oficina,10,426.65,4266.5,Efectivo,No,Sur
+732,2023-01-13,Impresora,Hogar,3,357.65,1072.95,Transferencia,Sí,Este
+733,2023-12-31,Smartphone,Accesorios,10,192.02,1920.2,Efectivo,No,Sur
+734,2023-05-09,Impresora,Electrónica,9,987.7,8889.3,Tarjeta,Sí,Norte
+735,2023-03-21,Monitor,Hogar,4,687.44,2749.76,Efectivo,Sí,Sur
+736,2023-07-04,Smartphone,Accesorios,8,315.92,2527.36,Tarjeta,Sí,Norte
+737,2023-05-31,Laptop,Hogar,9,132.05,1188.45,Efectivo,Sí,Oeste
+738,2023-03-20,Impresora,Accesorios,2,960.97,1921.94,Efectivo,No,Sur
+739,2023-07-13,Reloj Inteligente,Electrónica,1,842.15,842.15,Transferencia,Sí,Sur
+740,2023-09-21,Smartphone,Accesorios,1,56.2,56.2,Transferencia,Sí,Norte
+741,2023-03-29,Monitor,Accesorios,7,909.93,6369.51,Tarjeta,No,Norte
+742,2023-01-31,Impresora,Oficina,9,776.4,6987.6,Tarjeta,No,Sur
+743,2023-10-20,Laptop,Accesorios,9,441.89,3977.01,Tarjeta,Sí,Norte
+744,2023-07-27,Impresora,Hogar,10,966.15,9661.5,Tarjeta,Sí,Este
+745,2023-02-06,Smartphone,Accesorios,10,622.22,6222.2,Tarjeta,Sí,Este
+746,2023-07-01,Cámara,Hogar,5,926.28,4631.4,Efectivo,Sí,Este
+747,2023-10-11,Smartphone,Hogar,7,146.46,1025.22,Efectivo,Sí,Oeste
+748,2023-05-01,Reloj Inteligente,Electrónica,5,474.09,2370.45,Efectivo,Sí,Norte
+749,2023-02-09,Cámara,Oficina,6,922.85,5537.1,Efectivo,No,Norte
+750,2023-05-03,Laptop,Hogar,4,618.29,2473.16,Tarjeta,Sí,Sur
+751,2023-02-03,Auriculares,Electrónica,8,518.26,4146.08,Tarjeta,No,Este
+752,2023-04-24,Cámara,Accesorios,3,558.76,1676.28,Tarjeta,No,Sur
+753,2023-12-30,Monitor,Electrónica,3,657.69,1973.07,Efectivo,Sí,Sur
+754,2023-08-17,Auriculares,Hogar,6,543.6,3261.6,Transferencia,No,Oeste
+755,2023-11-11,Smartphone,Hogar,8,755.99,6047.92,Efectivo,No,Norte
+756,2023-01-21,Smartphone,Accesorios,5,227.88,1139.4,Transferencia,No,Oeste
+757,2023-09-22,Teclado,Accesorios,2,282.22,564.44,Efectivo,No,Norte
+758,2023-11-27,Auriculares,Hogar,4,34.2,136.8,Efectivo,No,Este
+759,2023-12-26,Reloj Inteligente,Hogar,10,617.1,6171.0,Efectivo,Sí,Oeste
+760,2023-03-03,Reloj Inteligente,Hogar,6,653.65,3921.9,Tarjeta,Sí,Sur
+761,2023-11-20,Laptop,Hogar,6,166.9,1001.4,Tarjeta,No,Sur
+762,2023-06-12,Auriculares,Accesorios,9,59.45,535.05,Transferencia,Sí,Oeste
+763,2023-11-16,Impresora,Oficina,4,800.31,3201.24,Transferencia,Sí,Este
+764,2023-04-18,Teclado,Hogar,2,864.07,1728.14,Efectivo,No,Oeste
+765,2023-06-05,Auriculares,Accesorios,1,610.43,610.43,Transferencia,No,Este
+766,2023-12-04,Reloj Inteligente,Accesorios,6,476.48,2858.88,Efectivo,No,Este
+767,2023-10-21,Laptop,Hogar,8,583.56,4668.48,Efectivo,Sí,Este
+768,2023-05-29,Teclado,Electrónica,1,425.21,425.21,Transferencia,Sí,Norte
+769,2023-03-21,Smartphone,Hogar,5,125.75,628.75,Efectivo,No,Sur
+770,2023-12-10,Teclado,Oficina,1,328.65,328.65,Transferencia,Sí,Oeste
+771,2023-03-29,Cámara,Electrónica,4,607.03,2428.12,Tarjeta,Sí,Norte
+772,2023-09-19,Cámara,Electrónica,5,45.31,226.55,Transferencia,No,Sur
+773,2023-03-09,Impresora,Electrónica,7,885.73,6200.11,Tarjeta,No,Oeste
+774,2023-07-19,Monitor,Accesorios,3,252.5,757.5,Tarjeta,Sí,Oeste
+775,2023-11-23,Cámara,Electrónica,10,394.16,3941.6,Tarjeta,Sí,Este
+776,2023-07-11,Smartphone,Oficina,3,957.36,2872.08,Efectivo,Sí,Norte
+777,2023-04-19,Teclado,Hogar,9,64.78,583.02,Efectivo,Sí,Este
+778,2024-01-01,Smartphone,Accesorios,2,606.2,1212.4,Transferencia,Sí,Este
+779,2023-04-12,Laptop,Accesorios,1,456.48,456.48,Efectivo,Sí,Norte
+780,2023-06-03,Cámara,Oficina,7,340.19,2381.33,Efectivo,No,Oeste
+781,2023-08-04,Monitor,Hogar,2,562.66,1125.32,Efectivo,Sí,Norte
+782,2023-10-09,Reloj Inteligente,Oficina,4,201.02,804.08,Efectivo,Sí,Sur
+783,2023-10-22,Smartphone,Accesorios,2,820.04,1640.08,Efectivo,No,Norte
+784,2023-08-09,Reloj Inteligente,Oficina,2,237.39,474.78,Efectivo,No,Norte
+785,2023-11-21,Laptop,Hogar,3,999.27,2997.81,Efectivo,No,Norte
+786,2023-03-01,Cámara,Oficina,1,493.96,493.96,Efectivo,No,Sur
+787,2023-01-11,Monitor,Electrónica,7,919.15,6434.05,Tarjeta,Sí,Norte
+788,2023-11-12,Auriculares,Accesorios,6,366.6,2199.6,Transferencia,Sí,Este
+789,2023-01-04,Monitor,Hogar,3,118.07,354.21,Tarjeta,No,Este
+790,2023-12-22,Impresora,Hogar,8,92.43,739.44,Tarjeta,Sí,Norte
+791,2023-03-27,Monitor,Oficina,3,552.79,1658.37,Transferencia,No,Este
+792,2023-10-31,Monitor,Accesorios,8,673.5,5388.0,Tarjeta,Sí,Oeste
+793,2023-11-16,Monitor,Hogar,1,915.78,915.78,Efectivo,No,Sur
+794,2023-11-04,Smartphone,Accesorios,8,981.19,7849.52,Transferencia,No,Este
+795,2023-11-23,Impresora,Accesorios,6,853.01,5118.06,Efectivo,No,Norte
+796,2023-10-26,Impresora,Electrónica,5,426.9,2134.5,Tarjeta,Sí,Este
+797,2023-12-10,Reloj Inteligente,Oficina,4,532.93,2131.72,Tarjeta,No,Este
+798,2023-03-02,Reloj Inteligente,Electrónica,4,478.62,1914.48,Tarjeta,Sí,Norte
+799,2023-12-25,Reloj Inteligente,Hogar,2,844.01,1688.02,Tarjeta,Sí,Oeste
+800,2023-01-08,Laptop,Electrónica,9,303.57,2732.13,Tarjeta,No,Norte
+801,2023-06-18,Cámara,Oficina,5,445.68,2228.4,Transferencia,No,Oeste
+802,2023-11-14,Smartphone,Electrónica,6,764.81,4588.86,Transferencia,No,Oeste
+803,2023-01-06,Teclado,Accesorios,3,625.6,1876.8,Tarjeta,No,Oeste
+804,2023-06-03,Cámara,Oficina,4,838.71,3354.84,Transferencia,No,Oeste
+805,2023-09-03,Reloj Inteligente,Electrónica,4,782.98,3131.92,Tarjeta,No,Oeste
+806,2023-08-30,Monitor,Hogar,9,784.02,7056.18,Efectivo,No,Este
+807,2023-11-19,Auriculares,Oficina,4,796.56,3186.24,Transferencia,No,Sur
+808,2023-12-14,Impresora,Accesorios,1,490.97,490.97,Tarjeta,Sí,Norte
+809,2023-08-16,Monitor,Hogar,10,270.25,2702.5,Efectivo,No,Sur
+810,2023-05-11,Reloj Inteligente,Oficina,2,401.17,802.34,Efectivo,No,Norte
+811,2023-06-30,Impresora,Accesorios,7,318.98,2232.86,Efectivo,Sí,Norte
+812,2023-09-16,Cámara,Accesorios,6,10.79,64.74,Tarjeta,No,Oeste
+813,2023-01-30,Auriculares,Hogar,1,172.26,172.26,Tarjeta,Sí,Este
+814,2023-08-03,Smartphone,Accesorios,2,946.59,1893.18,Tarjeta,No,Sur
+815,2023-05-07,Laptop,Accesorios,4,617.46,2469.84,Transferencia,No,Norte
+816,2023-07-04,Laptop,Hogar,9,435.75,3921.75,Transferencia,Sí,Sur
+817,2023-07-03,Auriculares,Electrónica,10,599.95,5999.5,Transferencia,No,Sur
+818,2023-11-22,Smartphone,Accesorios,8,614.68,4917.44,Efectivo,Sí,Sur
+819,2023-11-24,Auriculares,Electrónica,8,404.84,3238.72,Transferencia,Sí,Oeste
+820,2023-09-19,Auriculares,Electrónica,5,824.15,4120.75,Efectivo,Sí,Este
+821,2023-07-08,Cámara,Oficina,8,795.9,6367.2,Tarjeta,No,Norte
+822,2023-10-19,Reloj Inteligente,Accesorios,4,942.24,3768.96,Efectivo,No,Este
+823,2023-03-29,Monitor,Oficina,2,986.54,1973.08,Transferencia,Sí,Sur
+824,2023-06-04,Laptop,Hogar,1,211.27,211.27,Tarjeta,No,Este
+825,2023-07-24,Auriculares,Electrónica,4,100.52,402.08,Transferencia,No,Oeste
+826,2023-09-27,Smartphone,Hogar,8,385.63,3085.04,Efectivo,Sí,Este
+827,2023-05-15,Reloj Inteligente,Hogar,3,787.93,2363.79,Tarjeta,No,Norte
+828,2023-11-03,Auriculares,Hogar,1,740.6,740.6,Tarjeta,Sí,Norte
+829,2023-07-30,Smartphone,Electrónica,10,919.72,9197.2,Transferencia,No,Sur
+830,2023-02-01,Reloj Inteligente,Electrónica,4,443.81,1775.24,Transferencia,Sí,Sur
+831,2023-04-09,Smartphone,Hogar,7,626.34,4384.38,Efectivo,No,Oeste
+832,2023-11-03,Laptop,Electrónica,3,788.75,2366.25,Tarjeta,Sí,Este
+833,2023-11-25,Teclado,Accesorios,1,395.66,395.66,Transferencia,Sí,Este
+834,2023-10-24,Reloj Inteligente,Oficina,4,801.92,3207.68,Tarjeta,No,Sur
+835,2023-03-27,Cámara,Electrónica,7,921.24,6448.68,Efectivo,No,Sur
+836,2023-02-28,Monitor,Accesorios,9,30.37,273.33,Efectivo,Sí,Oeste
+837,2023-10-31,Monitor,Oficina,8,706.01,5648.08,Tarjeta,No,Norte
+838,2023-12-19,Auriculares,Oficina,4,648.87,2595.48,Transferencia,No,Este
+839,2023-06-13,Reloj Inteligente,Hogar,8,944.04,7552.32,Efectivo,Sí,Este
+840,2023-06-19,Auriculares,Electrónica,10,822.37,8223.7,Efectivo,Sí,Oeste
+841,2023-05-05,Impresora,Electrónica,8,686.84,5494.72,Transferencia,Sí,Sur
+842,2023-12-01,Impresora,Accesorios,6,612.09,3672.54,Efectivo,Sí,Este
+843,2023-09-30,Cámara,Electrónica,3,762.41,2287.23,Transferencia,No,Sur
+844,2023-04-21,Smartphone,Hogar,10,497.75,4977.5,Efectivo,No,Este
+845,2023-02-25,Teclado,Accesorios,2,664.48,1328.96,Tarjeta,No,Sur
+846,2023-05-23,Smartphone,Hogar,1,745.94,745.94,Tarjeta,No,Oeste
+847,2023-08-28,Teclado,Electrónica,1,702.81,702.81,Efectivo,Sí,Norte
+848,2023-01-01,Cámara,Oficina,9,66.89,602.01,Efectivo,Sí,Este
+849,2023-06-06,Auriculares,Accesorios,6,661.16,3966.96,Transferencia,No,Este
+850,2023-07-29,Laptop,Hogar,2,45.04,90.08,Efectivo,No,Este
+851,2023-01-21,Smartphone,Hogar,1,438.86,438.86,Tarjeta,No,Este
+852,2023-06-11,Smartphone,Oficina,8,541.81,4334.48,Transferencia,Sí,Este
+853,2023-01-07,Monitor,Hogar,5,351.09,1755.45,Tarjeta,Sí,Oeste
+854,2023-06-07,Laptop,Hogar,3,302.28,906.84,Tarjeta,Sí,Norte
+855,2023-12-17,Teclado,Accesorios,10,741.93,7419.3,Tarjeta,No,Este
+856,2023-04-16,Reloj Inteligente,Oficina,4,452.11,1808.44,Transferencia,No,Oeste
+857,2023-07-27,Smartphone,Accesorios,10,431.47,4314.7,Transferencia,No,Norte
+858,2023-11-03,Monitor,Oficina,10,871.13,8711.3,Transferencia,Sí,Norte
+859,2023-11-12,Monitor,Hogar,1,630.26,630.26,Transferencia,Sí,Este
+860,2023-09-27,Impresora,Hogar,9,210.01,1890.09,Efectivo,No,Sur
+861,2023-07-06,Auriculares,Hogar,6,954.37,5726.22,Tarjeta,No,Norte
+862,2023-01-25,Reloj Inteligente,Hogar,6,308.11,1848.66,Tarjeta,Sí,Sur
+863,2023-11-10,Auriculares,Oficina,3,688.25,2064.75,Transferencia,No,Oeste
+864,2023-09-01,Auriculares,Accesorios,6,720.94,4325.64,Tarjeta,Sí,Oeste
+865,2023-12-16,Impresora,Electrónica,6,95.96,575.76,Efectivo,Sí,Norte
+866,2023-08-05,Reloj Inteligente,Hogar,8,993.72,7949.76,Tarjeta,Sí,Sur
+867,2023-06-15,Reloj Inteligente,Hogar,6,55.7,334.2,Efectivo,No,Norte
+868,2023-11-14,Impresora,Oficina,7,459.79,3218.53,Transferencia,Sí,Este
+869,2023-04-24,Smartphone,Oficina,1,377.77,377.77,Efectivo,No,Oeste
+870,2023-06-09,Impresora,Electrónica,6,976.17,5857.02,Transferencia,No,Sur
+871,2023-02-18,Impresora,Electrónica,2,18.39,36.78,Efectivo,Sí,Este
+872,2023-11-20,Smartphone,Electrónica,9,880.49,7924.41,Transferencia,Sí,Este
+873,2023-05-12,Cámara,Oficina,8,92.18,737.44,Efectivo,No,Este
+874,2023-10-17,Reloj Inteligente,Hogar,9,805.95,7253.55,Tarjeta,Sí,Este
+875,2023-04-24,Laptop,Oficina,4,368.81,1475.24,Efectivo,Sí,Sur
+876,2023-06-22,Cámara,Accesorios,7,931.68,6521.76,Transferencia,Sí,Oeste
+877,2023-08-16,Teclado,Accesorios,9,194.82,1753.38,Transferencia,Sí,Este
+878,2023-11-05,Cámara,Oficina,8,857.69,6861.52,Transferencia,No,Este
+879,2023-10-18,Monitor,Electrónica,1,724.57,724.57,Efectivo,No,Sur
+880,2023-07-17,Monitor,Hogar,2,417.64,835.28,Tarjeta,Sí,Sur
+881,2023-12-26,Cámara,Accesorios,7,801.05,5607.35,Transferencia,No,Norte
+882,2023-06-08,Reloj Inteligente,Electrónica,6,455.84,2735.04,Tarjeta,Sí,Sur
+883,2023-07-31,Cámara,Electrónica,1,436.44,436.44,Efectivo,No,Oeste
+884,2023-02-23,Reloj Inteligente,Oficina,10,742.3,7423.0,Transferencia,Sí,Norte
+885,2023-04-04,Teclado,Accesorios,3,491.01,1473.03,Tarjeta,Sí,Este
+886,2023-09-21,Monitor,Electrónica,8,206.27,1650.16,Efectivo,No,Este
+887,2023-09-09,Laptop,Electrónica,4,158.77,635.08,Transferencia,No,Oeste
+888,2023-03-04,Impresora,Hogar,8,201.77,1614.16,Transferencia,Sí,Norte
+889,2023-11-09,Teclado,Hogar,9,715.78,6442.02,Transferencia,Sí,Norte
+890,2023-05-05,Reloj Inteligente,Oficina,7,845.9,5921.3,Efectivo,No,Oeste
+891,2023-08-10,Cámara,Electrónica,8,81.4,651.2,Tarjeta,Sí,Este
+892,2023-10-03,Teclado,Electrónica,7,774.62,5422.34,Transferencia,No,Sur
+893,2023-07-04,Impresora,Hogar,7,76.08,532.56,Efectivo,No,Sur
+894,2023-03-19,Reloj Inteligente,Oficina,3,997.21,2991.63,Transferencia,Sí,Este
+895,2023-06-16,Auriculares,Electrónica,2,743.61,1487.22,Efectivo,Sí,Este
+896,2023-11-28,Reloj Inteligente,Hogar,2,83.28,166.56,Tarjeta,Sí,Oeste
+897,2023-03-21,Monitor,Hogar,4,905.11,3620.44,Transferencia,Sí,Este
+898,2023-02-02,Cámara,Oficina,7,957.84,6704.88,Transferencia,Sí,Sur
+899,2023-01-14,Impresora,Accesorios,5,340.0,1700.0,Tarjeta,No,Sur
+900,2023-09-18,Auriculares,Oficina,2,326.5,653.0,Tarjeta,Sí,Oeste
+901,2023-05-11,Auriculares,Oficina,10,440.43,4404.3,Tarjeta,No,Oeste
+902,2023-06-05,Laptop,Electrónica,5,641.4,3207.0,Efectivo,No,Norte
+903,2023-04-12,Cámara,Hogar,5,428.29,2141.45,Tarjeta,No,Este
+904,2023-01-13,Cámara,Accesorios,9,106.37,957.33,Efectivo,No,Oeste
+905,2023-04-12,Smartphone,Hogar,6,750.87,4505.22,Tarjeta,No,Oeste
+906,2023-02-28,Reloj Inteligente,Oficina,2,643.35,1286.7,Transferencia,Sí,Este
+907,2023-02-17,Auriculares,Accesorios,5,819.07,4095.35,Transferencia,No,Oeste
+908,2023-01-30,Laptop,Oficina,7,756.67,5296.69,Efectivo,Sí,Este
+909,2023-04-12,Monitor,Oficina,8,641.14,5129.12,Efectivo,No,Sur
+910,2023-09-21,Reloj Inteligente,Oficina,8,998.16,7985.28,Transferencia,No,Norte
+911,2023-11-01,Reloj Inteligente,Oficina,9,900.41,8103.69,Transferencia,No,Oeste
+912,2023-01-25,Monitor,Oficina,4,238.28,953.12,Transferencia,No,Sur
+913,2023-03-23,Impresora,Electrónica,6,504.88,3029.28,Tarjeta,No,Oeste
+914,2023-10-26,Laptop,Electrónica,8,915.45,7323.6,Transferencia,No,Sur
+915,2023-05-16,Laptop,Hogar,4,350.6,1402.4,Transferencia,No,Oeste
+916,2023-01-04,Auriculares,Electrónica,3,690.15,2070.45,Transferencia,No,Norte
+917,2023-08-11,Impresora,Accesorios,8,792.0,6336.0,Efectivo,Sí,Este
+918,2023-07-19,Reloj Inteligente,Electrónica,7,859.54,6016.78,Efectivo,No,Este
+919,2023-10-05,Impresora,Accesorios,2,238.62,477.24,Tarjeta,Sí,Este
+920,2023-03-01,Auriculares,Hogar,8,547.84,4382.72,Tarjeta,Sí,Oeste
+921,2023-06-30,Reloj Inteligente,Oficina,7,316.74,2217.18,Transferencia,Sí,Sur
+922,2023-11-23,Auriculares,Accesorios,3,27.66,82.98,Tarjeta,Sí,Oeste
+923,2023-04-02,Reloj Inteligente,Electrónica,2,33.28,66.56,Transferencia,Sí,Norte
+924,2023-07-29,Cámara,Accesorios,7,132.86,930.02,Tarjeta,Sí,Sur
+925,2023-12-03,Cámara,Hogar,8,522.78,4182.24,Tarjeta,Sí,Norte
+926,2023-06-04,Cámara,Accesorios,4,49.3,197.2,Efectivo,No,Sur
+927,2023-04-24,Smartphone,Electrónica,4,199.91,799.64,Tarjeta,Sí,Norte
+928,2023-09-30,Teclado,Electrónica,7,967.77,6774.39,Efectivo,No,Norte
+929,2023-04-28,Laptop,Accesorios,5,867.47,4337.35,Tarjeta,Sí,Oeste
+930,2023-01-19,Reloj Inteligente,Accesorios,2,725.82,1451.64,Efectivo,Sí,Este
+931,2023-05-27,Reloj Inteligente,Electrónica,2,602.67,1205.34,Efectivo,No,Este
+932,2023-05-07,Impresora,Accesorios,8,815.0,6520.0,Efectivo,No,Oeste
+933,2023-07-02,Cámara,Electrónica,10,464.59,4645.9,Efectivo,Sí,Oeste
+934,2023-09-05,Monitor,Oficina,3,323.99,971.97,Transferencia,Sí,Este
+935,2023-08-22,Monitor,Electrónica,5,805.68,4028.4,Tarjeta,No,Norte
+936,2023-12-03,Smartphone,Hogar,8,32.18,257.44,Transferencia,No,Oeste
+937,2023-11-05,Monitor,Accesorios,2,933.3,1866.6,Tarjeta,No,Oeste
+938,2023-05-26,Reloj Inteligente,Accesorios,4,321.34,1285.36,Tarjeta,No,Sur
+939,2023-04-06,Laptop,Accesorios,7,710.09,4970.63,Transferencia,Sí,Norte
+940,2023-08-31,Auriculares,Oficina,2,397.13,794.26,Transferencia,Sí,Norte
+941,2023-06-17,Reloj Inteligente,Hogar,1,822.12,822.12,Transferencia,No,Sur
+942,2023-08-11,Monitor,Hogar,10,617.54,6175.4,Tarjeta,No,Oeste
+943,2023-10-12,Cámara,Accesorios,4,113.91,455.64,Efectivo,No,Norte
+944,2023-04-19,Laptop,Accesorios,10,730.83,7308.3,Transferencia,Sí,Norte
+945,2023-07-30,Smartphone,Oficina,10,144.58,1445.8,Efectivo,No,Sur
+946,2023-07-07,Cámara,Oficina,2,350.7,701.4,Tarjeta,No,Sur
+947,2023-11-24,Reloj Inteligente,Oficina,9,131.83,1186.47,Transferencia,Sí,Este
+948,2023-03-05,Cámara,Oficina,5,693.24,3466.2,Tarjeta,No,Este
+949,2023-11-29,Cámara,Hogar,3,898.52,2695.56,Transferencia,No,Oeste
+950,2023-10-18,Auriculares,Electrónica,5,614.57,3072.85,Transferencia,No,Norte
+951,2023-12-18,Teclado,Hogar,9,896.63,8069.67,Transferencia,No,Oeste
+952,2023-07-02,Impresora,Electrónica,8,923.55,7388.4,Efectivo,No,Norte
+953,2023-12-11,Teclado,Hogar,8,680.21,5441.68,Efectivo,No,Sur
+954,2023-03-27,Smartphone,Accesorios,10,793.59,7935.9,Transferencia,Sí,Norte
+955,2023-05-20,Impresora,Electrónica,1,358.85,358.85,Transferencia,No,Norte
+956,2023-04-15,Impresora,Oficina,4,113.38,453.52,Tarjeta,No,Este
+957,2023-07-07,Impresora,Oficina,5,512.31,2561.55,Efectivo,No,Norte
+958,2023-09-09,Teclado,Oficina,4,684.89,2739.56,Transferencia,No,Sur
+959,2023-08-24,Reloj Inteligente,Oficina,6,715.45,4292.7,Tarjeta,No,Norte
+960,2023-11-30,Cámara,Oficina,5,765.51,3827.55,Transferencia,No,Sur
+961,2023-07-25,Laptop,Electrónica,8,501.05,4008.4,Transferencia,Sí,Este
+962,2023-04-12,Impresora,Electrónica,1,377.83,377.83,Transferencia,No,Sur
+963,2023-08-02,Reloj Inteligente,Accesorios,10,989.99,9899.9,Transferencia,No,Este
+964,2023-02-01,Monitor,Oficina,1,448.36,448.36,Transferencia,Sí,Sur
+965,2023-01-23,Teclado,Hogar,7,859.73,6018.11,Transferencia,No,Sur
+966,2023-01-31,Reloj Inteligente,Accesorios,8,778.17,6225.36,Tarjeta,No,Sur
+967,2023-10-05,Laptop,Accesorios,7,724.9,5074.3,Tarjeta,Sí,Norte
+968,2024-01-01,Monitor,Oficina,7,161.27,1128.89,Transferencia,Sí,Este
+969,2023-02-04,Smartphone,Electrónica,10,94.7,947.0,Tarjeta,No,Norte
+970,2023-10-30,Cámara,Hogar,4,704.5,2818.0,Efectivo,No,Norte
+971,2023-07-07,Monitor,Oficina,9,248.98,2240.82,Efectivo,No,Este
+972,2023-03-31,Smartphone,Accesorios,4,437.32,1749.28,Transferencia,No,Norte
+973,2023-04-03,Monitor,Electrónica,7,331.47,2320.29,Efectivo,No,Oeste
+974,2023-06-28,Teclado,Electrónica,10,729.87,7298.7,Tarjeta,Sí,Este
+975,2023-03-20,Impresora,Electrónica,1,50.82,50.82,Tarjeta,Sí,Este
+976,2023-01-15,Impresora,Oficina,10,959.64,9596.4,Efectivo,Sí,Sur
+977,2023-03-11,Impresora,Hogar,7,204.66,1432.62,Transferencia,No,Oeste
+978,2023-09-01,Impresora,Electrónica,8,527.41,4219.28,Transferencia,Sí,Norte
+979,2023-07-08,Reloj Inteligente,Oficina,9,521.57,4694.13,Tarjeta,Sí,Este
+980,2023-06-22,Cámara,Electrónica,1,227.95,227.95,Transferencia,No,Sur
+981,2023-04-23,Teclado,Electrónica,1,925.4,925.4,Transferencia,No,Este
+982,2023-04-14,Reloj Inteligente,Electrónica,2,907.41,1814.82,Tarjeta,Sí,Sur
+983,2023-03-12,Monitor,Oficina,3,790.55,2371.65,Efectivo,Sí,Norte
+984,2023-06-18,Smartphone,Electrónica,6,819.64,4917.84,Efectivo,No,Sur
+985,2023-03-12,Impresora,Oficina,5,685.23,3426.15,Tarjeta,No,Oeste
+986,2023-11-19,Teclado,Hogar,9,69.66,626.94,Efectivo,No,Sur
+987,2023-01-17,Impresora,Hogar,2,538.71,1077.42,Efectivo,No,Sur
+988,2023-02-08,Laptop,Hogar,1,865.45,865.45,Efectivo,Sí,Norte
+989,2023-10-06,Laptop,Oficina,10,246.52,2465.2,Transferencia,No,Norte
+990,2023-10-22,Reloj Inteligente,Oficina,7,820.98,5746.86,Tarjeta,No,Sur
+991,2023-03-21,Auriculares,Hogar,9,486.29,4376.61,Efectivo,Sí,Norte
+992,2023-12-14,Impresora,Hogar,9,658.37,5925.33,Efectivo,Sí,Norte
+993,2023-09-17,Cámara,Accesorios,9,289.87,2608.83,Transferencia,Sí,Norte
+994,2023-06-14,Cámara,Oficina,10,307.21,3072.1,Efectivo,No,Norte
+995,2023-06-05,Auriculares,Accesorios,2,42.66,85.32,Tarjeta,No,Este
+996,2023-01-17,Cámara,Accesorios,2,273.13,546.26,Transferencia,No,Oeste
+997,2023-01-23,Smartphone,Electrónica,4,17.33,69.32,Transferencia,No,Norte
+998,2023-07-13,Monitor,Hogar,3,695.29,2085.87,Transferencia,Sí,Oeste
+999,2023-10-25,Impresora,Electrónica,9,920.33,8282.97,Efectivo,No,Este
+1000,2023-08-17,Reloj Inteligente,Electrónica,3,102.27,306.81,Efectivo,Sí,Norte
